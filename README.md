@@ -15,7 +15,7 @@ WordPress 台灣漢文的漢英對照字彙表，在大致滿足 WordPress 台�
 ## GitHub 存放庫的精選圖片
 圖片來源為〈[Rosetta hierogliphs](https://commons.wikimedia.org/w/index.php?curid=6130225)〉，授權方式為 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/?ref=openverse)。
 ## 贊助阿力獅的全職社群資訊本地化工作
-🎁 贊助阿力獅的全職本地化工作：[藍新金流](https://suo.fyi/donate-alexlion-blue)
-🧧 海外人士贊助阿力獅的全職本地化工作：[台灣 PayPal 帳號](https://suo.fyi/donate-alexlion-paypal)，僅限**台灣以外**國家/地區 PayPal 帳號可以贊助
-🎖️ 懇請**每年贊助新台幣 1200 元/美金 40 元等值或倍數金額**
-🎗️ **每年 365 人/份贊助**，讓阿力獅的全職社群本地化工作走的更遠更久
+1. 🎁 贊助阿力獅的全職本地化工作：[藍新金流](https://suo.fyi/donate-alexlion-blue)
+2. 🧧 海外人士贊助阿力獅的全職本地化工作：[台灣 PayPal 帳號](https://suo.fyi/donate-alexlion-paypal)，僅限**台灣以外**國家/地區 PayPal 帳號可以贊助
+3. 🎖️ 懇請**每年贊助新台幣 1200 元/美金 40 元等值或倍數金額**
+4. 🎗️ **每年 365 人/份贊助**，讓阿力獅的全職社群本地化工作走的更遠更久
