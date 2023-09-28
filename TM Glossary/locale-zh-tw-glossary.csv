@@ -27,6 +27,7 @@ add translation,新增譯文,verb,
 Addis Ababa,阿迪斯阿貝巴,noun,洲、國家/地區、城市名稱
 addon,附加元件,noun,
 add-on,附加元件,noun,
+addon domain,附加網域,noun,
 Adelaide,阿得雷德,noun,洲、國家/地區、城市名稱
 Aden,亞頓,noun,洲、國家/地區、城市名稱
 admin bar,工具列,noun,Admin Bar 是核心程式中的舊稱，新的同義字串是 Toolbar，即工具列，所以新舊版稱呼均一致性稱為「工具列」
@@ -78,6 +79,8 @@ Arabic,阿拉伯文,noun,語言名稱，介面中稱文不稱語
 Aragonese,亞拉岡文,noun,語言名稱，介面中稱文不稱語
 Araguaina,阿拉瓜伊納,noun,洲、國家/地區、城市名稱
 archive,彙整,noun,
+archive,彙整頁面,noun,
+archive,壓縮檔,noun,
 Arctic,北極,noun,洲、國家/地區、城市名稱
 Are you sure,確定要繼續操作嗎,noun,
 area,區域,noun,
@@ -99,6 +102,7 @@ Asmara,阿斯馬拉,noun,洲、國家/地區、城市名稱
 Asmera,阿斯馬拉,noun,洲、國家/地區、城市名稱
 aspect ratio,外觀比例,noun,
 Assamese,阿薩姆文,noun,語言名稱，介面中稱文不稱語
+assemble,組譯,verb,
 asset file,資產檔案,noun,
 assign,指派,verb,
 Astrakhan,阿斯特拉罕,noun,洲、國家/地區、城市名稱
@@ -108,6 +112,8 @@ Atikokan,阿蒂科肯,noun,洲、國家/地區、城市名稱
 Atka,阿特卡,noun,洲、國家/地區、城市名稱
 Atlantic,大西洋,noun,洲、國家/地區、城市名稱
 attachment,附件,noun,
+attack,攻擊,verb,
+attack,攻擊,noun,
 Atyrau,阿特勞,noun,洲、國家/地區、城市名稱
 Auckland,奧克蘭,noun,洲、國家/地區、城市名稱
 audio,音訊,noun,
@@ -166,6 +172,7 @@ base,目錄起點,noun,適用於網站網址結構相關內容
 Bashkir,巴什喀爾文,noun,語言名稱，介面中稱文不稱語
 Basque,巴斯克文,noun,語言名稱，介面中稱文不稱語
 bbPress,bbPress,noun,
+bearer,持有人,noun,
 Beirut,貝魯特,noun,洲、國家/地區、城市名稱
 Belarusian,白羅斯文,noun,語言名稱，介面中稱文不稱語
 Belarusian ruble,白羅斯盧布,noun,貨幣名稱
@@ -175,6 +182,8 @@ Belfast,貝爾發斯特,noun,洲、國家/地區、城市名稱
 Belgrade,貝爾格勒,noun,洲、國家/地區、城市名稱
 Belize,貝里斯,noun,洲、國家/地區、城市名稱
 Belize dollar,貝里斯元,noun,貨幣名稱
+benchmark,效能評定,verb,
+benchmark,效能評定,noun,
 Bengali,孟加拉文,noun,語言名稱，介面中稱文不稱語
 Bengali (Bangladesh),孟加拉文 (孟加拉),noun,語言名稱，介面中稱文不稱語
 BeReal,BeReal,noun,社交網路服務平台名稱
@@ -185,6 +194,10 @@ Beulah,比尤拉,noun,洲、國家/地區、城市名稱
 Bhutanese ngultrum,不丹努爾特魯姆,noun,貨幣名稱
 Bihari,比哈文,noun,語言名稱，介面中稱文不稱語
 billing,帳單,noun,
+binary,二進位,noun,
+binary file,二進位檔案,noun,
+bind,繫結,verb,
+binding,繫結,noun,
 Bishkek,比斯凱克,noun,洲、國家/地區、城市名稱
 Bislama,比斯拉馬文,noun,語言名稱，介面中稱文不稱語
 Bissau,比索,noun,洲、國家/地區、城市名稱
@@ -205,6 +218,7 @@ bold,粗體,noun,適用於字型相關內容
 Bolivian boliviano,玻利維亞諾,noun,貨幣名稱
 bookmarklet,書籤小工具,noun,
 bootstrap,啟動程序,noun,
+Bootstrap,Bootstrap,noun,網站開發架構
 border,框線,noun,
 Bosnia and Herzegovina convertible mark,波士尼亞與赫塞哥維納可兌換馬克,noun,貨幣名稱
 Bosnian,波士尼亞文,noun,語言名稱，介面中稱文不稱語
@@ -224,11 +238,14 @@ browser,瀏覽器,noun,洲、國家/地區、城市名稱
 Brunei,汶萊,noun,洲、國家/地區、城市名稱
 Brunei dollar,汶萊元,noun,貨幣名稱
 Brussels,布魯塞爾,noun,洲、國家/地區、城市名稱
+brute force,暴力密碼破解,verb,
+brute force,暴力密碼破解,noun,
 Bucharest,布加勒斯特,noun,洲、國家/地區、城市名稱
 Budapest,布達佩斯,noun,洲、國家/地區、城市名稱
 BuddyPress,BuddyPress,noun,
 Buenos Aires,布宜諾斯艾利斯,noun,洲、國家/地區、城市名稱
 buffer,緩衝區,noun,
+buffer,緩衝,noun,
 bug,程式碼錯誤,noun,
 built-in,內建,adjective,
 Bujumbura,布松布拉,noun,洲、國家/地區、城市名稱
@@ -301,14 +318,18 @@ changelog,變更記錄,noun,
 channel,頻道,noun,
 character,字元,noun,
 character set,字元集,noun,
+chart,圖表,noun,
 Chatham,查塔姆群島,noun,洲、國家/地區、城市名稱
 cheat sheet,速查表,noun,
 Cheatin' uh?,很抱歉，無法進行這項操作。,verb,
 Cheatin&#8217; uh?,很抱歉，無法進行這項操作。,verb,
 Cheating uh?,很抱歉，無法進行這項操作。,verb,
 Chechen,車臣文,noun,語言名稱，介面中稱文不稱語
+checkbox,核取方塊,noun,
 checker,檢查程式,noun,
+checklist,檢查清單,noun,
 checkout,結帳,noun,
+checkout,簽出,verb,適用於 SVN、Git 或 GitHub
 Chicago,芝加哥,noun,洲、國家/地區、城市名稱
 Chichewa,齊切瓦文,noun,語言名稱，介面中稱文不稱語
 Chihuahua,赤瓦瓦,noun,洲、國家/地區、城市名稱
@@ -346,6 +367,8 @@ Code,程式碼,noun,
 code editor,程式碼編輯器,noun,
 code snippet,程式碼片段,noun,
 codebase,程式碼基底,noun,適用於程式開發
+collaborate,協同合作,verb,
+collaboration,協同合作,noun,
 collapse,收合,verb,
 collation,定序,noun,適用於程式開發及資料庫
 Colombian peso,哥倫比亞披索,noun,貨幣名稱
@@ -355,17 +378,20 @@ color,色彩,noun,
 color scheme,色彩配置,noun,
 column,行,noun,
 column,資料行,noun,
+comfirmation,確認,noun,
 comma,逗號,noun,"適用於標點符號 ,"
 command prompt,命令提示字元,noun,
 comment,留言,noun,
 ComodRivadavia,科木多洛,noun,洲、國家/地區、城市名稱
 Comorian franc,葛摩法郎,noun,貨幣名稱
 Comoro,葛摩,noun,洲、國家/地區、城市名稱
+compile,編譯,verb,
 compliance,合規性,noun,
 component,元件,noun,
 Conakry,科納克里,noun,洲、國家/地區、城市名稱
 config file,組態檔案,noun,
 configure,組態,verb,
+confirm,確認,verb,
 Congolese franc,剛果法郎,noun,貨幣名稱
 connection type,連線類型,noun,
 constant,常數,noun,適用於程式開發
@@ -392,7 +418,9 @@ Corsican,科西嘉文,noun,語言名稱，介面中稱文不稱語
 Costa Rica,哥斯大黎加,noun,洲、國家/地區、城市名稱
 Costa Rican col&oacute;n,哥斯大黎加科郎,noun,貨幣名稱
 counter,計數器,noun,
+coupon code,優惠代碼,noun,
 CPT,CPT,noun,CPT 通常是 Custom Post Type (自訂內容類型) 的縮寫
+CPT,自訂內容類型,noun,CPT 通常是 Custom Post Type (自訂內容類型) 的縮寫
 crawl,檢索,noun,
 crawler,檢索器,noun,
 create,建立,verb,
@@ -447,6 +475,7 @@ debug,偵錯,verb,
 decimal,小數,noun,
 decimal leading zero,以零開頭小數,noun,
 declare,宣告,verb,
+decompile,反向編譯,verb,
 default,預設,adjective,
 default,預設值,noun,
 default theme,預設佈景主題,noun,
@@ -471,8 +500,10 @@ directive,指示詞,noun,
 directories,目錄,noun,
 directory,目錄,noun,
 disable,停用,verb,
+disassemble,反向組譯,verb,
 disc,圓點,noun,適用於形狀
 discard,捨棄,verb,
+discount,折扣,noun,
 display,顯示,verb,
 display,顯示方式,noun,
 Divehi,迪維西文,noun,語言名稱，介面中稱文不稱語
@@ -508,6 +539,7 @@ E.g.,範例,noun,
 Earthly Branch,地支,noun,
 East Caribbean dollar,東加勒比元,noun,貨幣名稱
 Easter,復活節島,noun,洲、國家/地區、城市名稱
+eBay,eBay,noun,
 eCommerce,電子商務,noun,
 editor,編輯,noun,適用於 WordPress 預設使用者角色，同時也適用於其他狀況
 editor,編輯器,noun,
@@ -526,6 +558,7 @@ email address,電子郵件地址,noun,
 embed block,嵌入內容區塊,noun,適用於區塊編輯器、全站編輯相關內容
 Emoji,Emoji 表情符號,noun,
 emoticon,表情符號,noun,
+empty value,空值,noun,
 enable,啟用,verb,
 encrypt,加密,verb,
 encryption,加密,noun,
@@ -544,6 +577,7 @@ enter,輸入,verb,
 Enter,Enter 鍵,noun,鍵盤按鍵名稱
 Eritrean nakfa,厄利垂亞奈克法,noun,貨幣名稱
 error,錯誤,noun,
+error message,錯誤訊息,noun,
 Esperanto,世界文,noun,語言名稱，介面中稱文不稱語
 Estonian,愛沙尼亞文,noun,語言名稱，介面中稱文不稱語
 Etc,其他,noun,
@@ -567,6 +601,7 @@ Fakaofo,法克奧佛,noun,洲、國家/地區、城市名稱
 Falkland Islands pound,福克蘭群島鎊,noun,貨幣名稱
 fallback,後援,noun,
 fallback chain,後援鏈結,noun,
+false positive,誤判,noun,
 Famagusta,法馬古斯塔,noun,洲、國家/地區、城市名稱
 FAQ,常見問題集,noun,
 Faroe,法羅群島,noun,洲、國家/地區、城市名稱
@@ -595,11 +630,15 @@ filter,篩選條件,noun,
 filter hook,篩選器勾點,noun,適用於區塊編輯器、全站編輯相關內容
 Finnish,芬蘭文,noun,語言名稱，介面中稱文不稱語
 flag,標幟,noun,適用於程式開發
+flag,標幟,verb,
+flag,旗標,noun,適用於程式開發
+flag,標示,verb,
 flip horizontal,水平翻轉,verb,
 flip vertical,垂直翻轉,verb,
 focal point,焦點,noun,
 folder,資料夾,noun,
 font,字型,noun,適用於字型相關內容
+font face,字型定義,noun,適用於字型相關內容
 font family,字型系列,noun,適用於字型相關內容
 font name,字型名稱,noun,適用於字型相關內容
 font size,字型大小,noun,適用於字型相關內容
@@ -607,6 +646,7 @@ font variant,字型變體,noun,適用於字型相關內容
 font weight,字型粗細,noun,適用於字型相關內容
 footer,頁尾,noun,
 footnote,註腳,noun,
+foreground,前景,noun,
 form,表單,noun,
 Fort Nelson,納爾遜堡,noun,洲、國家/地區、城市名稱
 Fort Wayne,韋恩堡,noun,洲、國家/地區、城市名稱
@@ -640,6 +680,7 @@ Gaza,加薩,noun,洲、國家/地區、城市名稱
 GDPR,GDPR,noun,GDPR 是 General Data Protection Regulation (一般資料保護規定) 的縮寫
 General Data Protection Regulation,一般資料保護規定,noun,
 General Public License,通用公眾授權,noun,
+generator,產生器,noun,
 Georgian,喬治亞文,noun,語言名稱，介面中稱文不稱語
 Georgian lari,喬治亞拉里,noun,貨幣名稱
 German,德文,noun,語言名稱，介面中稱文不稱語
@@ -687,14 +728,20 @@ GNU General Public License,GNU 通用公眾授權,noun,
 go back,返回,verb,
 Godthab,哥特哈布,noun,洲、國家/地區、城市名稱
 Google,Google,noun,
+Google Analytics,Google Analytics,noun,建議保留服務英文名稱
+Google Analytics,Google 分析,noun,Google 台灣官方譯文，但是不建議使用
 Google Docs,Google Docs,noun,
 Google Drive,Google 雲端硬碟,noun,
 Google Fonts,Google Fonts,noun,
 Google Fonts,Google Fonts 網頁字型,noun,
 Google Maps,Google 地圖,noun,
+Google My Business,Google 我的商家,noun,
 Google Photos,Google 相簿,noun,
+Google Plus,Google+,noun,社交網路服務平台名稱
 Google Sheets,Google Sheets,noun,
 Google Slides,Google Slides,noun,
+Google+,Google+,noun,社交網路服務平台名稱
+Goolge Business Profiles,Google 商家檔案,noun,
 Goose Bay,古斯貝,noun,洲、國家/地區、城市名稱
 GPL,GPL,noun,GPL 是 GNU General Public License (GNU 通用公眾授權) 的縮寫
 Grand Turk,格蘭土克,noun,洲、國家/地區、城市名稱
@@ -731,6 +778,7 @@ Hangul Consonant,韓文 (子音),noun,語言名稱，介面中稱文不稱語
 Harare,哈拉雷,noun,洲、國家/地區、城市名稱
 Harbin,哈爾濱,noun,洲、國家/地區、城市名稱
 hard link,直接連結,noun,適用於作業系統及檔案系統
+hardware,硬體,noun,
 hash tag,主題標籤,noun,
 hashtag,主題標籤,noun,
 Hausa,豪沙文,noun,語言名稱，介面中稱文不稱語
@@ -751,6 +799,7 @@ hide,隱藏,verb,
 hierarchy,階層架構,noun,
 Hindi,印度文,noun,語言名稱，介面中稱文不稱語
 Hindi (Devanagari),印度文 (梵文字母),noun,語言名稱，介面中稱文不稱語
+HiNet,HiNet,noun,
 Hiragana,日文平假名,noun,語言名稱，介面中稱文不稱語
 Hiragana-Iroha,日文平假名 (伊呂波歌),noun,語言名稱，介面中稱文不稱語
 Hiri Motu,希里莫圖文,noun,語言名稱，介面中稱文不稱語
@@ -769,16 +818,20 @@ horizontal,水平,adjective,
 Hovd,哈霍德,noun,洲、國家/地區、城市名稱
 hover,游標暫留,verb,
 HSTS,HSTS,noun,適用於網際網路通訊相關
+HTML entities,HTML 實體,noun,
 HTTP Strict Transport Security,HTTP 嚴格傳輸安全性,noun,適用於網際網路通訊相關，HSTS 的原文
 Hungarian,匈牙利文,noun,語言名稱，介面中稱文不稱語
 Hungarian forint,匈牙利福林,noun,貨幣名稱
 hyphen,連字號,noun,適用於標點符號 -
 hyphenate,連字號,noun,適用於標點符號 -
+I18N,I18N,noun,I18N 是 Internationalization (國際化) 的縮寫，因為原文中的 I 及 N 之間有 18 個字母
+I18N,國際化,noun,I18N 是 Internationalization (國際化) 的縮寫，因為原文中的 I 及 N 之間有 18 個字母
 Icelandic,冰島文,noun,語言名稱，介面中稱文不稱語
 Icelandic kr&oacute;na,冰島克朗,noun,貨幣名稱
 icon,圖示,noun,
 ICQ,ICQ,noun,通訊軟體名稱
 identifier,識別碼,noun,
+identify,識別,verb,
 Ido,伊多文,noun,語言名稱，介面中稱文不稱語
 iFrame,iFrame,noun,
 Igbo,伊布文,noun,語言名稱，介面中稱文不稱語
@@ -816,6 +869,7 @@ integration,整合,noun,
 interface,介面,noun,
 Interlingua (International Auxiliary Language Association),人工國際文 (國際輔助語協會),noun,語言名稱，介面中稱文不稱語
 Interlingue,人工國際文,noun,語言名稱，介面中稱文不稱語
+Internationalization,國際化,noun,
 internet,網際網路,noun,
 Inuktitut,依奴提圖特文,noun,語言名稱，介面中稱文不稱語
 Inupiaq,伊努特文,noun,語言名稱，介面中稱文不稱語
@@ -837,6 +891,7 @@ Italian,義大利文,noun,語言名稱，介面中稱文不稱語
 italic,斜體,noun,適用於字型相關內容
 item,項目,noun,
 item list,項目清單,noun,
+iteration,疊代,noun,
 Jakarta,雅加達,noun,洲、國家/地區、城市名稱
 Jamaica,牙買加,noun,洲、國家/地區、城市名稱
 Jamaican dollar,牙買加元,noun,貨幣名稱
@@ -854,6 +909,7 @@ Jerusalem,耶路撒冷,noun,洲、國家/地區、城市名稱
 Johannesburg,約翰尼斯堡,noun,洲、國家/地區、城市名稱
 Johnston,詹斯頓島,noun,洲、國家/地區、城市名稱
 Jordanian dinar,約旦戴納,noun,貨幣名稱
+jQuery,jQuery,noun,
 Juba,朱巴,noun,洲、國家/地區、城市名稱
 Jujuy,胡胡伊,noun,洲、國家/地區、城市名稱
 Juneau,朱諾,noun,洲、國家/地區、城市名稱
@@ -916,6 +972,8 @@ Kwajalein,瓜加林島,noun,洲、國家/地區、城市名稱
 Kwanyama,克萬亞瑪文,noun,語言名稱，介面中稱文不稱語
 Kyiv,基輔,noun,洲、國家/地區、城市名稱
 Kyrgyzstani som,吉爾吉斯斯坦索姆,noun,貨幣名稱
+L10N,本地化,noun,L10N 是 Localization (本地化) 的縮寫，因為原文中的 L 及 N 之間有 10 個字母
+L10N,L10N,noun,L10N 是 Localization (本地化) 的縮寫，因為原文中的 L 及 N 之間有 10 個字母
 La Paz,拉帕茲,noun,洲、國家/地區、城市名稱
 La Rioja,拉里奧哈,noun,洲、國家/地區、城市名稱
 Lagos,拉哥斯,noun,洲、國家/地區、城市名稱
@@ -926,7 +984,10 @@ Lao kip,寮國基普,noun,貨幣名稱
 Laotian,寮文,noun,語言名稱，介面中稱文不稱語
 Latin,拉丁文,noun,語言名稱，介面中稱文不稱語
 Latvian,拉脫維亞文,noun,語言名稱，介面中稱文不稱語
+launch,啟動,verb,
 layout,版面配置,noun,
+lazy load,延遲載入,noun,
+lazy load,延遲載入,verb,
 Lebanese pound,黎巴嫩鎊,noun,貨幣名稱
 left arrow key,向左鍵,noun,鍵盤按鍵名稱
 Left to Right,從左至右,noun,文字方向
@@ -943,6 +1004,7 @@ Libreville,自由市,noun,洲、國家/地區、城市名稱
 Libyan dinar,利比亞戴納,noun,貨幣名稱
 license,授權,noun,
 license,授權方式,noun,
+license key,授權金鑰,noun,
 lightbox,燈箱,noun,
 lightness,亮度,noun,
 lightweight,輕量化,adjective,
@@ -963,6 +1025,7 @@ Ljubljana,盧布亞納,noun,洲、國家/地區、城市名稱
 loader,載入程式,noun,
 local,本機,noun,本機所代表的裝置不一定就在操作者身旁，也可以是操作者所操作的遠端裝置的本機
 locale,地區語言,noun,
+localization,本地化,noun,
 log,記錄,noun,
 log,記錄,verb,
 log in,登入,verb,
@@ -978,6 +1041,8 @@ Longyearbyen,龍宜爾比恩,noun,洲、國家/地區、城市名稱
 look up,查詢,verb,
 lookup,查詢,verb,
 loop,迴圈,noun,適用於程式開發
+loopback,回送,verb,
+loopback address,迴路位址,noun,
 Lord Howe,羅豪,noun,洲、國家/地區、城市名稱
 Los Angeles,洛杉磯,noun,洲、國家/地區、城市名稱
 Louisville,路易維爾,noun,洲、國家/地區、城市名稱
@@ -1007,6 +1072,7 @@ Madeira,馬迪拉群島,noun,洲、國家/地區、城市名稱
 Madrid,馬德里,noun,洲、國家/地區、城市名稱
 Magadan,馬加丹,noun,洲、國家/地區、城市名稱
 Mahe,馬赫,noun,洲、國家/地區、城市名稱
+Mailchimp,Mailchimp,noun,
 maintenance,維護,noun,洲、國家/地區、城市名稱
 Majuro,麥哲魯,noun,洲、國家/地區、城市名稱
 Makassar,瑪加沙,noun,洲、國家/地區、城市名稱
@@ -1019,6 +1085,7 @@ Malayalam,馬來亞拉姆文,noun,語言名稱，介面中稱文不稱語
 Malaysian ringgit,馬來西亞令吉,noun,貨幣名稱
 Maldives,馬爾地夫,noun,洲、國家/地區、城市名稱
 Maldivian rufiyaa,馬爾地夫拉菲亞,noun,貨幣名稱
+malicious software,惡意軟體,noun,
 Malta,馬爾他,noun,洲、國家/地區、城市名稱
 Maltese,馬爾他文,noun,語言名稱，介面中稱文不稱語
 manage,管理,verb,
@@ -1034,6 +1101,7 @@ manually install,手動安裝,verb,
 Manx,曼島文,noun,語言名稱，介面中稱文不稱語
 Manx pound,曼島鎊,noun,貨幣名稱
 Maori,毛利文,noun,語言名稱，介面中稱文不稱語
+mapping,對應,adjective,
 Maputo,馬布多,noun,洲、國家/地區、城市名稱
 Marathi,馬拉提文,noun,語言名稱，介面中稱文不稱語
 Marengo,馬倫戈,noun,洲、國家/地區、城市名稱
@@ -1041,6 +1109,7 @@ margin,邊界,noun,
 MariaDB,MariaDB,noun,資料庫名稱
 Mariehamn,瑪麗港,noun,洲、國家/地區、城市名稱
 Marigot,馬里戈,noun,洲、國家/地區、城市名稱
+mark,標示,verb,
 Marquesas,馬克沙斯,noun,洲、國家/地區、城市名稱
 Marshallese,馬紹爾文,noun,語言名稱，介面中稱文不稱語
 Martinique,馬丁尼克,noun,洲、國家/地區、城市名稱
@@ -1055,6 +1124,7 @@ Mayotte,馬約特島,noun,洲、國家/地區、城市名稱
 Mazatlan,馬札特蘭,noun,洲、國家/地區、城市名稱
 Mbabane,墨巴本,noun,洲、國家/地區、城市名稱
 McMurdo,麥克馬多,noun,洲、國家/地區、城市名稱
+measurement,測量,noun,
 media,媒體,noun,
 media library,媒體庫,noun,
 media uploader,媒體上傳程式,noun,
@@ -1085,6 +1155,8 @@ mode,模式,noun,
 model,模型,noun,
 model,型號,noun,
 modern,新式,adjective,
+modification,修改,noun,
+modify,修改,verb,
 module,模組,noun,
 Mogadishu,摩加迪休,noun,洲、國家/地區、城市名稱
 Moldovan leu,摩爾多瓦列伊,noun,貨幣名稱
@@ -1104,8 +1176,12 @@ Moscow,莫斯科,noun,洲、國家/地區、城市名稱
 mouse,滑鼠,noun,
 mouse shortcut,滑鼠快速鍵,noun,
 Mozambican metical,莫三比克梅蒂卡爾,noun,貨幣名稱
+multibyte,多位元組,noun,
+multi-byte,多位元組,noun,
 multisite,多站網路,noun,
 Muscat,馬斯喀特,noun,洲、國家/地區、城市名稱
+must use,強制使用,adjective,適用於 WordPress 提及的 Must Use Plugin。
+must-use,強制使用,adjective,適用於 WordPress 提及的 Must Use Plugin。
 Myanmar,緬甸,noun,語言名稱，介面中稱文不稱語
 Myanmar (Burmese),緬甸文 (緬甸),noun,語言名稱，介面中稱文不稱語
 MySQL,MySQL,noun,資料庫名稱
@@ -1154,6 +1230,7 @@ Norwegian (Nynorsk),挪威文 (尼洛斯克),noun,語言名稱，介面中稱文
 Norwegian Bokmal,挪威文 (巴克摩),noun,語言名稱，介面中稱文不稱語
 Norwegian krone,挪威克朗,noun,貨幣名稱
 Norwegian Nynorsk,挪威文 (尼洛斯克),noun,語言名稱，介面中稱文不稱語
+notation,標記法,noun,
 notification,通知,noun,
 Nouakchott,諾克少,noun,洲、國家/地區、城市名稱
 Noumea,諾米亞,noun,洲、國家/地區、城市名稱
@@ -1177,6 +1254,7 @@ one-time,買斷型,adjective,適用於付費方式
 oops,很抱歉,noun,
 opacity,不透明度,noun,
 open source,開放原始碼,noun,
+Openverse,Openverse,noun,目前由 Automattic 管理、維護、開發、更新的創用 CC 授權媒體檔案搜尋引擎。
 operating system,作業系統,noun,
 operation system,作業系統,noun,
 optimization,最佳化,noun,
@@ -1223,14 +1301,20 @@ parameter,參數,noun,
 parent,上層,adjective,
 parent theme,上層佈景主題,noun,
 Paris,巴黎,noun,洲、國家/地區、城市名稱
+parked domain,存放網域,noun,存放網域或只是用來預留網址的網站，其中顯示「建置中」或「即將上線」等類似訊息。
 parse,剖析,verb,
 parser,剖析器,noun,
 part,組件,noun,適用於區塊編輯器、網站編輯器相關內容
 Pashto,普什圖文,noun,語言名稱，介面中稱文不稱語
+passkey,通行金鑰,noun,Microsoft 官方譯文 (建議採用)
+passkey,密碼金鑰,noun,Google 官方譯文
 password protected,受密碼保護,adjective,
+passwordless,無密碼,adjective,
 path,路徑,noun,
 pattern,區塊版面配置,noun,適用於區塊編輯器及全站編輯相關內容
 payment gateway,付款入口,noun,
+PChome,PChome,noun,
+PChome,網路家庭,noun,
 peak,尖峰,adjective,
 pending,待審閱,adjective,適用於各種發佈狀態
 period,句號,noun,適用於標點符號 .
@@ -1247,6 +1331,7 @@ Perth,伯斯,noun,洲、國家/地區、城市名稱
 Peruvian nuevo sol,秘魯新索爾,noun,貨幣名稱
 Petersburg,聖彼得堡,noun,洲、國家/地區、城市名稱
 Philippine peso,菲律賓披索,noun,貨幣名稱
+phishing,網路釣魚,noun,適用於網際網路行為
 Phnom Penh,金邊,noun,洲、國家/地區、城市名稱
 Phoenix,鳳凰城,noun,洲、國家/地區、城市名稱
 photo,照片,noun,
@@ -1260,6 +1345,8 @@ ping,自動通知,verb,
 pingback,自動引用通知,noun,
 Pinterest,Pinterest,noun,社交網路服務平台名稱
 Pitcairn,皮特康群島,noun,洲、國家/地區、城市名稱
+Pixnet,痞客邦,noun,
+Pixnet,Pixnet,noun,
 placeholder,預留位置,noun,
 please try again,請再試一次,noun,
 please wait,請稍候,verb,
@@ -1303,12 +1390,19 @@ preference,偏好設定,noun,
 prefix,前置詞,noun,
 preload list,預載清單,noun,
 preloader,預先載入程式,noun,
+preset,預設,adjective,
+preset,預設集,noun,
 press,按下,verb,操作鍵盤、滑鼠及螢幕
 previous page,上一頁,noun,
 privacy policy,隱私權政策,noun,
+processor,處理器,noun,
+prod,正式環境,noun,如果確定是 Production 的簡寫，則適用於網站建置
+production,正式環境,noun,適用於網站建置
 profile,個人資料,noun,
 profiler,分析工具,noun,
 profiling,分析,noun,
+promo code,促銷代碼,noun,
+promotion code,促銷代碼,noun,
 protect,保護,verb,
 protection,保護,noun,
 protocol,通訊協定,noun,
@@ -1327,12 +1421,15 @@ QR Code,QR 圖碼,noun,
 Quechua,蓋楚瓦文,noun,語言名稱，介面中稱文不稱語
 Queensland,昆士蘭省,noun,洲、國家/地區、城市名稱
 query,查詢,noun,
+quota,配額,noun,
 Qyzylorda,克孜勒奧爾達,noun,洲、國家/地區、城市名稱
+radio button,選項按鈕,noun,
 Raeto-Romance,里托羅曼斯文,noun,語言名稱，介面中稱文不稱語
 Rainy River,雷尼河區,noun,洲、國家/地區、城市名稱
 Rangoon,仰光,noun,洲、國家/地區、城市名稱
 Rankin Inlet,蘭金音萊特,noun,洲、國家/地區、城市名稱
 Rarotonga,拉洛東加島,noun,洲、國家/地區、城市名稱
+real-time,即時,adjective,
 Recife,累西腓,noun,洲、國家/地區、城市名稱
 record,記錄,noun,
 recover,復原,verb,
@@ -1341,16 +1438,23 @@ recovery code,復原代碼,noun,
 recovery mode,復原模式,noun,
 redirect,重新導向,verb,
 redirection,重新導向,noun,
+refactor,重構,verb,
+refresh,重新整理,verb,
 Regina,雷吉納,noun,洲、國家/地區、城市名稱
+register,註冊,verb,
 registered trademark,註冊商標,noun,
+registration,註冊,noun,
 regular expression,規則運算式,noun,適用於程式開發
+regular price,原價,noun,
 relative path,相對路徑,noun,
 remove,移除,verb,
 render,轉譯,verb,
 render,轉譯,verb,適用於程式開發
 render,轉譯,noun,適用於程式開發
+rep,代表,noun,在外掛目錄或佈景主題中，Rep 通常是 Representative (代表) 的縮寫。舉例來說，Support rep 或 Support Representative 即為「技術支援代表」。
 repo,存放庫,noun,在外掛目錄及佈景主題目錄中， repo 是 Repository (存放庫) 的縮寫。
 repository,存放庫,noun,適用於 SVN、Git 或 GitHub
+representative,代表,noun,範例：Sales Representative 為「銷售代表」。
 request,要求,noun,
 requirement,需求,noun,
 requirement,要求,noun,
@@ -1384,12 +1488,16 @@ Romanian leu,羅馬尼亞列伊,noun,貨幣名稱
 Rome,羅馬,noun,洲、國家/地區、城市名稱
 Rosario,羅沙略,noun,洲、國家/地區、城市名稱
 Rothera,羅瑟拉站,noun,洲、國家/地區、城市名稱
+routine,常式,noun,
 row,列,noun,
 row,資料列,noun,
 RSS,RSS,noun,
 RTL,RTL,noun,文字方向 Right to Left (從右到左) 的縮寫，例如阿拉伯文、希伯來文
 RTL,從右至左,noun,文字方向 Right to Left (從右到左) 的縮寫，例如阿拉伯文、希伯來文
+rule set,規則集,noun,
 rule type,規則型別,noun,
+ruleset,規則集,noun,
+runtime,執行階段,noun,
 Russian,俄文,noun,語言名稱，介面中稱文不稱語
 Russian ruble,俄羅斯盧布,noun,貨幣名稱
 Rwandan franc,盧安達法郎,noun,貨幣名稱
@@ -1400,6 +1508,7 @@ Saint Helena pound,聖赫勒拿島鎊,noun,貨幣名稱
 Saipan,塞班島,noun,洲、國家/地區、城市名稱
 Sakha,薩哈文,noun,語言名稱，介面中稱文不稱語
 Sakhalin,庫頁島,noun,洲、國家/地區、城市名稱
+sale price,特價,noun,
 Salta,薩爾塔,noun,洲、國家/地區、城市名稱
 Samara,沙馬拉,noun,洲、國家/地區、城市名稱
 Samarkand,撒馬爾罕,noun,洲、國家/地區、城市名稱
@@ -1427,6 +1536,7 @@ save changes,儲存設定,verb,
 scan,掃描,noun,
 scan,掃描,verb,
 schedule,排程,verb,
+scheduler,排程器,noun,
 schema,架構,noun,
 schema,結構描述,noun,
 Scoresbysund,斯可比,noun,洲、國家/地區、城市名稱
@@ -1486,6 +1596,7 @@ Singapore dollar,新加坡元,noun,貨幣名稱
 single page,單篇頁面,noun,
 single post,單篇文章,noun,適用於確定 Post 所指確實是 [文章] 內容類型時
 single post,單篇內容,noun,
+Single Sign-On,單一登入,noun,
 Sinhala,僧伽羅文,noun,語言名稱，介面中稱文不稱語
 site,網站,noun,
 site editor,網站編輯器,noun,
@@ -1493,6 +1604,10 @@ site language,網站介面語言,noun,
 sitemap,sitemap,noun,
 Sitka,矽地卡,noun,洲、國家/地區、城市名稱
 Skopje,斯高彼亞,noun,洲、國家/地區、城市名稱
+SKU,SKU,noun,適用於電子商務，全名為 Stock Keeping Unit。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
+SKU,庫存單位,noun,適用於電子商務，全名為 Stock Keeping Unit。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
+SKU,商品貨號,noun,適用於電子商務，全名為 Stock Keeping Unit。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
+SKU,貨號,noun,適用於電子商務，全名為 Stock Keeping Unit。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
 Skype,Skype,noun,通訊軟體名稱
 Slack,Slack,noun,協同作業服務名稱
 Slovak,斯洛伐克文,noun,語言名稱，介面中稱文不稱語
@@ -1501,14 +1616,17 @@ slug,代稱,noun,
 smooth,平滑,adjective,
 smooth scroll,平滑捲動,noun,
 Snapchat,Snapchat,noun,社交網路服務平台名稱
+snapshot,快照,noun,
 snippet,程式碼片段,noun,
 social,社交網路服務,noun,
 social,社交,noun,
+social engineering,社交工程,noun,「社交工程」是指藉由發布內容，誘騙使用者進行只會為自身信賴的實體採取的行動 (例如提供機密資訊)、下載垃圾軟體或惡意軟體，或是落入網路詐騙/釣魚的圈套。
 social icon,社交網路服務圖示,noun,
 social media,社交網路服務媒體,,
 social network,社交網路服務,noun,
 social share,社交網路服務分享,noun,
 Sofia,索菲亞,noun,洲、國家/地區、城市名稱
+software,軟體,noun,
 Solomon Islands dollar,索羅門群島元,noun,貨幣名稱
 Somali,索馬利亞文,noun,語言名稱，介面中稱文不稱語
 Somali shilling,索馬利亞先令,noun,貨幣名稱
@@ -1550,6 +1668,8 @@ square,正方形,noun,適用於形狀
 Srednekolymsk,中科雷姆斯克,noun,洲、國家/地區、城市名稱
 Sri Lankan rupee,斯里蘭卡盧比,noun,貨幣名稱
 ssl certificate,SSL 憑證,noun,
+SSO,SSO,noun,SSO 通常是 Single Sign-On (單一登入) 的縮寫
+SSO,單一登入,noun,SSO 通常是 Single Sign-On (單一登入) 的縮寫
 St Barthelemy,聖巴泰勒米,noun,洲、國家/地區、城市名稱
 St Helena,聖赫勒拿島,noun,洲、國家/地區、城市名稱
 St Johns,聖約翰,noun,洲、國家/地區、城市名稱
@@ -1571,8 +1691,12 @@ sticky,固定於頁首,verb,
 sticky,置頂,verb,
 sticky,固定式,adjective,
 sticky,固定位置,adverb,
+Stock Keeping Unit,庫存單位,noun,適用於電子商務，縮寫為 SKU。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
 Stockholm,斯德哥爾摩,noun,洲、國家/地區、城市名稱
 storage space,儲存空間,noun,
+structure,結構,noun,
+StumbleUpon,StumbleUpon,noun,社交網路服務平台名稱
+style,樣式,noun,
 style sheet,樣式表,noun,
 style variation,樣式變化,noun,適用於 WordPress 全站編輯
 subdomain,子網域,noun,
@@ -1595,6 +1719,9 @@ Swedish,瑞典文,noun,語言名稱，介面中稱文不稱語
 Swedish krona,瑞典克朗,noun,貨幣名稱
 Swift Current,斯威夫特卡倫特,noun,
 Swiss franc,瑞士法郎,noun,貨幣名稱
+switch,交換器,noun,網路通訊裝置名稱
+switch,切換器,verb,
+switcher,切換器,noun,
 Sydney,雪梨,noun,洲、國家/地區、城市名稱
 symbolic link,符號連結,noun,
 symbolic link,符號連結,noun,適用於作業系統及檔案系統
@@ -1613,7 +1740,9 @@ table,表格,noun,
 table of contents,目錄,noun,
 table of contents,內容目錄,noun,
 tag,標籤,noun,
+tag,標示,verb,
 tag base,標籤目錄起點,noun,
+Tag ID,代碼 ID,noun,Google 台灣官方譯文，適用於搜尋引擎相關內容及 Google Analystics
 Tagalog,塔加拉族文,noun,語言名稱，介面中稱文不稱語
 tagline,網站說明,noun,
 Tahiti,大溪地,noun,洲、國家/地區、城市名稱
@@ -1674,6 +1803,7 @@ TLD,頂層網域,noun,
 TOC,TOC,noun,
 TOC,目錄,noun,
 TOC,內容目錄,noun,
+token,權杖,noun,
 Tokyo,東京,noun,洲、國家/地區、城市名稱
 Tomsk,托木斯克,noun,洲、國家/地區、城市名稱
 Tonga,東加文,noun,語言名稱，介面中稱文不稱語
@@ -1684,7 +1814,11 @@ top level domain,頂層網域,noun,
 top-level domain,頂層網域,noun,
 Toronto,多倫多,noun,洲、國家/地區、城市名稱
 Tortola,托托拉,noun,洲、國家/地區、城市名稱
+track,追蹤,verb,
+track,追蹤,noun,
 trackback,引用通知,noun,
+tracker,追蹤器,noun,
+tracking code,追蹤程式碼,noun,Google 台灣官方譯文，適用於搜尋引擎相關內容及 Google Analystics
 trademark,商標,noun,
 Traditional Chinese,繁體中文,noun,語言名稱，介面中稱文不稱語
 Traditional Chinese Formal,繁體中文 (正式),noun,語言名稱，介面中稱文不稱語
@@ -1694,6 +1828,7 @@ translation,語言套件,noun,
 translation,本地化,noun,
 Transnistrian ruble,聶斯特河沿岸盧布,noun,貨幣名稱
 transparent,透明度,noun,
+transport,傳輸,noun,
 trash,回收桶,noun,
 trash,移至回收桶,verb,
 Trinidad and Tobago dollar,千里達及托巴哥元,noun,貨幣名稱
@@ -1737,9 +1872,14 @@ unique identifier,唯一識別碼,noun,
 United Arab Emirates dirham,阿拉伯聯合大公國迪拉姆,noun,貨幣名稱
 United States dollar,美元,noun,貨幣名稱
 Universal,國際標準時間,noun,
+universal,標準,adjective,
+universal,通用,adjective,
+unload,解除載入,verb,從儲存空間移除儲存的項目。
+unload,卸載,verb,將軟體從系統記憶體中移除。
 unsaved change,未儲存的變更,noun,
 unschedule,取消排程,verb,
 untitled,未命名,adjective,
+unwanted software,垃圾軟體,noun,
 up arrow key,向上鍵,noun,鍵盤按鍵名稱
 update,更新,noun,
 update,更新,verb,
@@ -1773,7 +1913,10 @@ Vatican,梵蒂岡,noun,
 Venda,文達文,noun,語言名稱，介面中稱文不稱語
 vendor,廠商,noun,
 Venezuelan bol&iacute;var,委內瑞拉玻利瓦爾,noun,貨幣名稱
+verification,驗證,noun,
 verification code,驗證碼,noun,
+verify,驗證,verb,
+version control,版本控制,noun,
 vertical,垂直,adjective,
 Vevay,韋韋,noun,洲、國家/地區、城市名稱
 Viber,Viber,noun,通訊軟體名稱
@@ -1857,133 +2000,4 @@ Zaporozhye,札波羅結,noun,洲、國家/地區、城市名稱
 Zhuang,壯文,noun,語言名稱，介面中稱文不稱語
 Zulu,祖魯,noun,洲、國家/地區、城市名稱
 Zurich,蘇黎世,noun,洲、國家/地區、城市名稱
-unload,解除載入,verb,從儲存空間移除儲存的項目。
-unload,卸載,verb,將軟體從系統記憶體中移除。
-structure,結構,noun,
-archive,彙整頁面,noun,
-archive,壓縮檔,noun,
-multibyte,多位元組,noun,
-multi-byte,多位元組,noun,
-addon domain,附加網域,noun,
-parked domain,存放網域,noun,存放網域或只是用來預留網址的網站，其中顯示「建置中」或「即將上線」等類似訊息。
-compile,編譯,verb,
-assemble,組譯,verb,
-decompile,反向編譯,verb,
-disassemble,反向組譯,verb,
-checklist,檢查清單,noun,
-loopback,回送,verb,
-loopback address,迴路位址,noun,
-representative,代表,noun,範例：Sales Representative 為「銷售代表」。
-rep,代表,noun,在外掛目錄或佈景主題中，Rep 通常是 Representative (代表) 的縮寫。舉例來說，Support rep 或 Support Representative 即為「技術支援代表」。
-Openverse,Openverse,noun,目前由 Automattic 管理、維護、開發、更新的創用 CC 授權媒體檔案搜尋引擎。
-flag,標幟,verb,
-refresh,重新整理,verb,
-notation,標記法,noun,
-HiNet,HiNet,noun,
-PChome,PChome,noun,
-PChome,網路家庭,noun,
-Pixnet,痞客邦,noun,
-Pixnet,Pixnet,noun,
-generator,產生器,noun,
-HTML entities,HTML 實體,noun,
-benchmark,效能評定,verb,
-benchmark,效能評定,noun,
-buffer,緩衝,noun,
-measurement,測量,noun,
-style,樣式,noun,
-preset,預設,adjective,
-preset,預設集,noun,
-scheduler,排程器,noun,
-Google My Business,Google 我的商家,noun,
-Goolge Business Profiles,Google 商家檔案,noun,
-lazy load,延遲載入,noun,
-lazy load,延遲載入,verb,
-coupon code,優惠代碼,noun,
-promotion code,促銷代碼,noun,
-promo code,促銷代碼,noun,
-refactor,重構,verb,
-brute force,暴力密碼破解,verb,
-brute force,暴力密碼破解,noun,
-attack,攻擊,verb,
-attack,攻擊,noun,
-register,註冊,verb,
-registration,註冊,noun,
-verification,驗證,noun,
-verify,驗證,verb,
-modification,修改,noun,
-modify,修改,verb,
-confirm,確認,verb,
-comfirmation,確認,noun,
-chart,圖表,noun,
-production,正式環境,noun,適用於網站建置
-snapshot,快照,noun,
-prod,正式環境,noun,如果確定是 Production 的簡寫，則適用於網站建置
-CPT,自訂內容類型,noun,CPT 通常是 Custom Post Type (自訂內容類型) 的縮寫
-empty value,空值,noun,
-error message,錯誤訊息,noun,
-license key,授權金鑰,noun,
-Single Sign-On,單一登入,noun,
-SSO,SSO,noun,SSO 通常是 Single Sign-On (單一登入) 的縮寫
-SSO,單一登入,noun,SSO 通常是 Single Sign-On (單一登入) 的縮寫
-runtime,執行階段,noun,
-transport,傳輸,noun,
-must use,強制使用,adjective,適用於 WordPress 提及的 Must Use Plugin。
-must-use,強制使用,adjective,適用於 WordPress 提及的 Must Use Plugin。
-token,權杖,noun,
-launch,啟動,verb,
-bearer,持有人,noun,
-software,軟體,noun,
-hardware,硬體,noun,
-font face,字型定義,noun,適用於字型相關內容
-processor,處理器,noun,
-collaborate,協同合作,verb,
-collaboration,協同合作,noun,
-checkbox,核取方塊,noun,
-radio button,選項按鈕,noun,
-tracking code,追蹤程式碼,noun,Google 台灣官方譯文，適用於搜尋引擎相關內容及 Google Analystics
-Google Analytics,Google Analytics,noun,建議保留服務英文名稱
-Google Analytics,Google 分析,noun,Google 台灣官方譯文，但是不建議使用
-Tag ID,代碼 ID,noun,Google 台灣官方譯文，適用於搜尋引擎相關內容及 Google Analystics
-quota,配額,noun,
-track,追蹤,verb,
-track,追蹤,noun,
-tracker,追蹤器,noun,
-jQuery,jQuery,noun,
-Bootstrap,Bootstrap,noun,網站開發架構
-foreground,前景,noun,
-universal,標準,adjective,
-universal,通用,adjective,
-real-time,即時,adjective,
-switcher,切換器,noun,
-switch,交換器,noun,網路通訊裝置名稱
-switch,切換器,verb,
-Google+,Google+,noun,社交網路服務平台名稱
-Google Plus,Google+,noun,社交網路服務平台名稱
-StumbleUpon,StumbleUpon,noun,社交網路服務平台名稱
-SKU,SKU,noun,適用於電子商務，全名為 Stock Keeping Unit。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
-SKU,庫存單位,noun,適用於電子商務，全名為 Stock Keeping Unit。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
-SKU,商品貨號,noun,適用於電子商務，全名為 Stock Keeping Unit。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
-eBay,eBay,noun,
-SKU,貨號,noun,適用於電子商務，全名為 Stock Keeping Unit。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
-regular price,原價,noun,
-sale price,特價,noun,
-discount,折扣,noun,
-iteration,疊代,noun,
-Mailchimp,Mailchimp,noun,
-passwordless,無密碼,adjective,
-passkey,通行金鑰,noun,Microsoft 官方譯文 (建議採用)
-passkey,密碼金鑰,noun,Google 官方譯文
-mapping,對應,adjective,
-Stock Keeping Unit,庫存單位,noun,適用於電子商務，縮寫為 SKU。這是商品的唯一識別碼，通常由英數字組成。基於管理庫存目的，SKU 用於追蹤商品。SKU 可與任何可購買的項目產生關聯；舉例來說，一件編號為 1114、尺寸為 8 的外套，SKU 便可以訂為 1114-8。
-binary file,二進位檔案,noun,
-binary,二進位,noun,
-checkout,簽出,verb,適用於 SVN、Git 或 GitHub
-version control,版本控制,noun,
-ruleset,規則集,noun,
-rule set,規則集,noun,
-social engineering,社交工程,noun,「社交工程」是指藉由發布內容，誘騙使用者進行只會為自身信賴的實體採取的行動 (例如提供機密資訊)、下載垃圾軟體或惡意軟體，或是落入網路詐騙/釣魚的圈套。
-unwanted software,垃圾軟體,noun,
-malicious software,惡意軟體,noun,
-phishing,網路釣魚,noun,適用於網際網路行為
-routine,常式,noun,
-false positive,誤判,noun,
+asterisk,星號,noun,即 * 這個符號
