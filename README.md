@@ -21,3 +21,4 @@ WordPress 台灣漢文的漢英對照字彙表，在大致滿足 WordPress 台�
 2. 🧧 海外人士贊助阿力獅的全職本地化工作：[台灣 PayPal 帳號](https://suo.fyi/donate-alexlion-paypal)，僅限**台灣以外**國家/地區 PayPal 帳號可以贊助
 3. 🎖️ 懇請**每年贊助新台幣 1200 元/美金 40 元等值或倍數金額**
 4. 🎗️ **每年 365 人/份贊助**，讓阿力獅的全職社群本地化工作走的更遠更久
+5. 歡迎加入 Facebook 公開社團《[你我他的 WordPress 使用心得及阿力獅的台灣漢文本地化](https://www.facebook.com/groups/wordpresstwhant)》
