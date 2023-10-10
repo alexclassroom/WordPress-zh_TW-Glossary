@@ -13,7 +13,7 @@ WordPress 台灣漢文的漢英對照字彙表，在大致滿足 WordPress 台�
 ### locale-zh-tw-glossary.csv
 這個檔案就是〈WordPress 台灣漢文字彙表〉的 [CSV 檔案版本](https://glotpress.blog/the-manual/glossaries/)。
 ### poedit-zh-tw-glossary.csv
-這個檔案源自 locale-zh-tw-glossary.csv，但是資訊欄位減少 2 個，主要供 Poedit 3.4 及更新版本匯入字彙表之用。請參考〈[Glossaries import from CSV](https://poedit.net/news/poedit-3.4-localazy/)〉一節的介紹。
+這個檔案源自 locale-zh-tw-glossary.csv，但是減少 1 個詞性欄位，主要供 Poedit 3.4 及更新版本匯入字彙表之用。請參考〈[Glossaries import from CSV](https://poedit.net/news/poedit-3.4-localazy/)〉一節的介紹。
 ## GitHub 存放庫的精選圖片
 圖片來源為〈[Rosetta hierogliphs](https://commons.wikimedia.org/w/index.php?curid=6130225)〉，授權方式為 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/?ref=openverse)。
 ## 贊助阿力獅的全職社群資訊本地化工作
