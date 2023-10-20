@@ -30,7 +30,7 @@ add-on,附加元件,noun,
 addon domain,附加網域,noun,
 Adelaide,阿得雷德,noun,洲、國家/地區、城市名稱
 Aden,亞頓,noun,洲、國家/地區、城市名稱
-admin bar,工具列,noun,Admin Bar 是核心程式中的舊稱，新的同義字串是 Toolbar，即工具列，所以新舊版稱呼均一致性稱為「工具列」
+admin bar,工具列,noun,Admin Bar 是核心程式中的舊稱，新的同義字串是 Toolbar，即工具列，所以新舊版稱呼均統一稱為「工具列」
 admin panel,管理面板,noun,
 administrator,網站管理員,noun,適用於 WordPress 預設使用者角色
 Adobe,Adobe,noun,
@@ -497,7 +497,6 @@ Dhaka,達卡,noun,洲、國家/地區、城市名稱
 Dhivehi,迪培希文,noun,語言名稱，介面中稱文不稱語
 Dili,帝利,noun,洲、國家/地區、城市名稱
 directive,指示詞,noun,
-directories,目錄,noun,
 directory,目錄,noun,
 disable,停用,verb,
 disassemble,反向組譯,verb,
@@ -1073,7 +1072,7 @@ Madrid,馬德里,noun,洲、國家/地區、城市名稱
 Magadan,馬加丹,noun,洲、國家/地區、城市名稱
 Mahe,馬赫,noun,洲、國家/地區、城市名稱
 Mailchimp,Mailchimp,noun,
-maintenance,維護,noun,洲、國家/地區、城市名稱
+maintenance,維護,noun,
 Majuro,麥哲魯,noun,洲、國家/地區、城市名稱
 Makassar,瑪加沙,noun,洲、國家/地區、城市名稱
 Malabo,馬拉博,noun,洲、國家/地區、城市名稱
@@ -2043,3 +2042,31 @@ correlate,相互關聯,verb,
 gateway,閘道,noun,
 robots.txt,robots.txt,noun,
 Open Graph,開放社交關係圖,noun,Facebook 官方譯文
+white label,自訂品牌,noun,
+manifest,資訊清單,noun,
+enumeration,列舉,noun,
+enumerate,列舉,verb,
+bloat,浮濫功能,noun,
+unwanted software,垃圾軟體,noun,
+bloatware,浮濫軟體,noun,
+redundant,冗餘,adjective,
+webinar,網路研討會,noun,
+principle,原則,noun,
+ownership,擁有權,noun,
+funding,資金,noun,
+generative AI,生成式 AI,noun,
+generative pre-trained transformer,生成式預先訓練轉換器,noun,
+generative,生成式,adjective,
+pre-trained,預先訓練,adjective,
+transformer,轉換器,noun,
+boolean,布林,noun,
+operator,運算子,noun,
+copy,複製,verb,
+assignment,指派,noun,
+copy,複本,noun,
+script tag,指令碼標籤,noun,
+helper,協助程式,noun,
+serif,有襯線,noun,
+sans serif,無襯線,noun,
+serif,有襯線字型,noun,字型的基本外觀分類，英文字型如 Times New Roman，繁體中文字型如 Noto Serif TC。
+sans serif,無襯線字型,noun,字型的基本外觀分類，英文字型如 Arial，繁體中文字型如 Noto Sans TC。
