@@ -2070,3 +2070,18 @@ serif,有襯線,noun,
 sans serif,無襯線,noun,
 serif,有襯線字型,noun,字型的基本外觀分類，英文字型如 Times New Roman，繁體中文字型如 Noto Serif TC。
 sans serif,無襯線字型,noun,字型的基本外觀分類，英文字型如 Arial，繁體中文字型如 Noto Sans TC。
+reverse lookup,反向對應,noun,
+Fully Qualified Domain Name,完整網域名稱,noun,
+FQDN,FQDN,noun,FQDN 是 Fully Qualified Domain Name (完整網域名稱) 的縮寫
+Domain Name System,網域名稱系統,noun,
+DNS,DNS,noun,DNS 是 Domain Name System (網域名稱系統) 的縮寫
+resolver,解析程式,noun,
+paywall,付費牆,noun,
+paywall,需要付費,verb,
+empty string,空白字串,noun,
+value-added tax,加值稅,noun,
+VAT,加值稅,noun,VAT 一般在商業交易內容中都是 Value-Added Tax (加值稅) 的縮寫
+shallow copy,淺層複製,noun,對來源項目進行淺層複製，目標項目與來源項目共享相同引用的複本。在這種狀態下，無論變更來源項目或目標項目，都會導致另一個項目的變更。
+deep,深層複製,noun,對來源項目進行深層複製，目標項目與來源項目為分別獨立的項目，變更其中一個項目不會影響另一個項目。
+programming language,程式設計語言,noun,
+salt,加密字串,noun,適用於加密用途

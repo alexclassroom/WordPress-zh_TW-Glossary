@@ -2048,3 +2048,22 @@ assignment,指派,
 copy,複本,
 script tag,指令碼標籤,
 helper,協助程式,
+serif,有襯線,
+sans serif,無襯線,
+serif,有襯線字型,字型的基本外觀分類，英文字型如 Times New Roman，繁體中文字型如 Noto Serif TC。
+sans serif,無襯線字型,字型的基本外觀分類，英文字型如 Arial，繁體中文字型如 Noto Sans TC。
+reverse lookup,反向對應,
+Fully Qualified Domain Name,完整網域名稱,
+FQDN,FQDN,FQDN 是 Fully Qualified Domain Name (完整網域名稱) 的縮寫
+Domain Name System,網域名稱系統,
+DNS,DNS,DNS 是 Domain Name System (網域名稱系統) 的縮寫
+resolver,解析程式,
+paywall,付費牆,
+paywall,需要付費,
+empty string,空白字串,
+value-added tax,加值稅,
+VAT,加值稅,
+shallow copy,淺層複製,對來源項目進行淺層複製，目標項目與來源項目共享相同引用的複本。在這種狀態下，無論變更來源項目或目標項目，都會導致另一個項目的變更。
+deep copy,深層複製,對來源項目進行深層複製，目標項目與來源項目為分別獨立的項目，變更其中一個項目不會影響另一個項目。
+programming language,程式設計語言,
+salt,加密字串,
