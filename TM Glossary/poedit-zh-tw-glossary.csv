@@ -2029,7 +2029,6 @@ manifest,資訊清單,
 enumeration,列舉,
 enumerate,列舉,
 bloat,浮濫功能,
-unwanted software,垃圾軟體,
 bloatware,浮濫軟體,
 redundant,冗餘,
 webinar,網路研討會,
@@ -2067,3 +2066,32 @@ shallow copy,淺層複製,對來源項目進行淺層複製，目標項目與來
 deep copy,深層複製,對來源項目進行深層複製，目標項目與來源項目為分別獨立的項目，變更其中一個項目不會影響另一個項目。
 programming language,程式設計語言,
 salt,加密字串,
+transactional email ,觸發式電子郵件,
+edit,編輯,
+validate,驗證,
+validation,驗證,
+expression,運算式,適用於程式開發
+privacy statement,隱私權聲明,
+statement,聲明,
+statement,陳述式,適用於程式開發
+release candidate,發行候選版本,
+RC,RC,RC 通常是 Release Candidate (發行候選版本) 的縮寫
+typo,拼寫錯誤,
+Threads,Threads,社交網路服務平台名稱
+assertion,判斷提示,適用於程式開發
+override,覆寫,
+retrieve,擷取,
+defer,延遲,
+defer,順延,
+Audio,音訊,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Video,視訊,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Status,近況簡述,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Quote,引文,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Image,圖片,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Link,連結,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Gallery,圖庫,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Chat,交談記錄,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Aside,記事,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Standard,標準,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+blockquote,段落引用,
+security token,安全性憑證,

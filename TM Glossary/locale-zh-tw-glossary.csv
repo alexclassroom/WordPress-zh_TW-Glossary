@@ -2047,7 +2047,6 @@ manifest,資訊清單,noun,
 enumeration,列舉,noun,
 enumerate,列舉,verb,
 bloat,浮濫功能,noun,
-unwanted software,垃圾軟體,noun,
 bloatware,浮濫軟體,noun,
 redundant,冗餘,adjective,
 webinar,網路研討會,noun,
@@ -2085,3 +2084,32 @@ shallow copy,淺層複製,noun,對來源項目進行淺層複製，目標項目�
 deep,深層複製,noun,對來源項目進行深層複製，目標項目與來源項目為分別獨立的項目，變更其中一個項目不會影響另一個項目。
 programming language,程式設計語言,noun,
 salt,加密字串,noun,適用於加密用途
+transactional email ,觸發式電子郵件,noun,
+edit,編輯,verb,
+validate,驗證,noun,
+validation,驗證,verb,
+expression,運算式,noun,適用於程式開發
+privacy statement,隱私權聲明,noun,
+statement,聲明,noun,
+statement,陳述式,noun,適用於程式開發
+release candidate,發行候選版本,noun,
+RC,RC,noun,RC 通常是 Release Candidate (發行候選版本) 的縮寫
+typo,拼寫錯誤,noun,
+Threads,Threads,noun,社交網路服務平台名稱
+assertion,判斷提示,noun,適用於程式開發
+override,覆寫,verb,
+retrieve,擷取,noun,
+defer,延遲,verb,
+defer,順延,verb,
+Audio,音訊,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Video,視訊,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Status,近況簡述,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Quote,引文,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Image,圖片,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Link,連結,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Gallery,圖庫,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Chat,交談記錄,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Aside,記事,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+Standard,標準,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
+blockquote,段落引用,noun,
+security token,安全性憑證,noun,
