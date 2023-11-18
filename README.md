@@ -1,6 +1,7 @@
 # 台灣漢文資訊字彙英漢對照表
 WordPress 台灣漢文的漢英對照字彙表，在大致滿足 WordPress 台灣社群需求後，會擴充至其他資訊 IT 領域的英漢字彙。
 這份字彙表由 [Alex Lion (阿力獅)](https://www.facebook.com/captain.alexlion) 維護。
+這份詞彙表是實際使用於阿力獅目前持續處理的 WordPress 台灣漢文版核心程式、外掛及佈景主題語言套件中，所以絕對有一定程度的實用價值。
 ## 字彙表更新優先順序
 1. Alex Lion 會在本機檔案新增、刪除、修改英漢字彙對照。
 2. 英漢字彙對照累積至一定筆數，或是有重要字彙對照，會更新至〈[WordPress 台灣漢文字彙表](https://translate.wordpress.org/locale/zh-tw/default/glossary/)〉，因為這份線上字彙表主要是提供 GlotPress 線上本地化系統使用。
