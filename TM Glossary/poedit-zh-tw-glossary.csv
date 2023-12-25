@@ -280,7 +280,7 @@ Cape Verde,維德角,洲、國家/地區、城市名稱
 Cape Verdean escudo,維德角埃斯庫多,貨幣名稱
 Caracas,卡拉卡斯,洲、國家/地區、城市名稱
 carousel,輪轉,
-carousel view,輪轉檢視,
+carousel view,輪轉檢視,適用於檢視方式名稱
 Cart,購物車,
 Casablanca,卡薩布蘭卡,洲、國家/地區、城市名稱
 cascading style sheets,階層式樣式表,
@@ -742,7 +742,7 @@ Gravatar,Gravatar,個人頭像服務名稱
 Greek,希臘文,語言名稱，介面中稱文不稱語
 Greenwich,格林威治,洲、國家/地區、城市名稱
 Grenada,格瑞那達,洲、國家/地區、城市名稱
-grid view,格狀檢視,
+grid view,格狀檢視,適用於檢視方式名稱
 group,群組,
 group,組成群組,
 Guadalcanal,瓜達卡那島,洲、國家/地區、城市名稱
@@ -1010,7 +1010,7 @@ LinkedIn,LinkedIn,社交網路服務平台名稱
 Linux,Linux,作業系統名稱
 Lisbon,里斯本,洲、國家/地區、城市名稱
 list,清單,
-list view,清單檢視,
+list view,清單檢視,適用於檢視方式名稱
 Lithuanian,立陶宛文,語言名稱，介面中稱文不稱語
 Ljubljana,盧布亞納,洲、國家/地區、城市名稱
 loader,載入程式,
@@ -1259,7 +1259,7 @@ Ouagadougou,瓦加杜古,洲、國家/地區、城市名稱
 outdent,凸排,
 outline,大綱,
 outline,外框,適用於網頁設計
-outline view,大綱檢視,
+outline view,大綱檢視,適用於檢視方式名稱
 overlay,覆疊,
 overview,概觀,
 overview,總覽,
@@ -1782,7 +1782,8 @@ TinyMCE,TinyMCE,
 Tirane,地拉那,洲、國家/地區、城市名稱
 Tiraspol,提拉斯浦,洲、國家/地區、城市名稱
 title,標題,
-TLD,頂層網域,
+TLD,頂層網域,如果是與網域相關的內容，就是 top level domain 的縮寫
+TLD,TLD,如果是與網域相關的內容，就是 top level domain 的縮寫
 TOC,TOC,
 TOC,目錄,
 TOC,內容目錄,
@@ -2095,3 +2096,76 @@ Aside,記事,WordPress 核心程式內建的文章格式 (Post Format) 之一，
 Standard,標準,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
 blockquote,段落引用,
 security token,安全性憑證,
+Generic top-level domain,通用頂層網域,
+registry,網域註冊管理機構,如果 registry 用於與網域註冊相關的內容，有一定的機會是指「網域註冊管理機構」。
+gTLD,gTLD,Generic top-level domain (通用頂層網域) 的縮寫
+gTLD,通用頂層網域,Generic top-level domain (通用頂層網域) 的縮寫
+ccTLD,ccTLD,Country code top-level-domain (國家/地區代碼頂層網域) 的縮寫
+ccTLD,國家/地區代碼頂層網域,Country code top-level-domain (國家/地區代碼頂層網域) 的縮寫
+Country code top-level-domain,國家/地區代碼頂層網域,
+decentralize,分散式,
+centralize,集中式,
+decentralized,分散式,
+centralized,集中式,
+Black Friday,黑色星期五,
+Cyber Monday,網購星期一,
+Uyghur,維吾爾文,語言名稱，介面中稱文不稱語
+MIME,MIME,
+MIME Type,MIME 類型,
+preserve,保留,
+reserve,保留,
+context menu,操作功能表,
+dialog,對話,
+dialog box,對話方塊,
+dialog,對話方塊,
+temporary directory,暫存目錄,
+redo,取消復原,
+unmount,卸載,適用於連接儲存裝置
+mount,掛接,適用於連接儲存裝置
+dismount,卸載,適用於連接儲存裝置
+popup,彈出式訊息,
+temporary file,暫存檔案,
+playlist,播放清單,
+threshold,臨界值,
+threshold,閾值,「閾值」對一般人來說比較不好理解，一般可以使用「臨界值」
+comma separated values,逗點分隔值,檔案格式的一種，縮寫為 CSV
+CSV,CSV,CSV 是 Comma Separated Values (逗點分隔值) 的縮寫，檔案格式的一種
+file type,檔案類型,
+file type association,檔案類型關聯,
+acquire,擷取,
+algorithm,演算法,
+hash,雜湊,
+hash,雜湊值,
+mouseover,游標暫留,
+incremental search,累加搜尋,
+impersonate,模擬,
+malware,惡意程式碼,
+phish,網路釣魚,
+phishing,網路釣魚,
+quick start,快速入門,
+tutorial,教學課程,
+LinkedIn,LinkedIn,
+TikTok,TikTok,
+campaign,廣告活動,Google 官方譯文 (建議採用)
+uptime,運作時間,
+downtime,停機時間,
+outage,中斷,
+incident,事件,
+event,事件,
+breakdown,解析,
+spacer,空白間隔,
+progress bar,進度列,
+workaround,因應措施,
+solution,解決方案,
+query string,查詢字串,
+check,核取,操作對象為核取方塊 (Checkbox) 時使用
+uncheck,取消核取,操作對象為核取方塊 (Checkbox) 時使用
+wipe,抹除,
+tree view,樹狀檢視,適用於檢視方式名稱
+tree,樹狀結構,適用於說明結構顯示方式
+flat,平面,
+flat,單層式,
+multicurrency,多重貨幣,
+multi-currency,多重貨幣,
+mailer,郵件程式,
+lifetime license,終生授權,

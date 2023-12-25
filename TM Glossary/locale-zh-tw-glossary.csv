@@ -287,7 +287,7 @@ Cape Verde,維德角,noun,洲、國家/地區、城市名稱
 Cape Verdean escudo,維德角埃斯庫多,noun,貨幣名稱
 Caracas,卡拉卡斯,noun,洲、國家/地區、城市名稱
 carousel,輪轉,noun,
-carousel view,輪轉檢視,noun,
+carousel view,輪轉檢視,noun,適用於檢視方式名稱
 Cart,購物車,noun,
 Casablanca,卡薩布蘭卡,noun,洲、國家/地區、城市名稱
 cascading style sheets,階層式樣式表,noun,
@@ -749,7 +749,7 @@ Gravatar,Gravatar,noun,個人頭像服務名稱
 Greek,希臘文,noun,語言名稱，介面中稱文不稱語
 Greenwich,格林威治,noun,洲、國家/地區、城市名稱
 Grenada,格瑞那達,noun,洲、國家/地區、城市名稱
-grid view,格狀檢視,noun,
+grid view,格狀檢視,noun,適用於檢視方式名稱
 group,群組,noun,
 group,組成群組,verb,
 Guadalcanal,瓜達卡那島,noun,洲、國家/地區、城市名稱
@@ -1018,7 +1018,7 @@ LinkedIn,LinkedIn,noun,社交網路服務平台名稱
 Linux,Linux,noun,作業系統名稱
 Lisbon,里斯本,noun,洲、國家/地區、城市名稱
 list,清單,noun,
-list view,清單檢視,noun,
+list view,清單檢視,noun,適用於檢視方式名稱
 Lithuanian,立陶宛文,noun,語言名稱，介面中稱文不稱語
 Ljubljana,盧布亞納,noun,洲、國家/地區、城市名稱
 loader,載入程式,noun,
@@ -1270,7 +1270,7 @@ Ouagadougou,瓦加杜古,noun,洲、國家/地區、城市名稱
 outdent,凸排,verb,
 outline,大綱,noun,
 outline,外框,noun,適用於網頁設計
-outline view,大綱檢視,noun,
+outline view,大綱檢視,noun,適用於檢視方式名稱
 overlay,覆疊,verb,
 overview,概觀,noun,
 overview,總覽,noun,
@@ -1798,7 +1798,8 @@ TinyMCE,TinyMCE,noun,
 Tirane,地拉那,noun,洲、國家/地區、城市名稱
 Tiraspol,提拉斯浦,noun,洲、國家/地區、城市名稱
 title,標題,noun,
-TLD,頂層網域,noun,
+TLD,頂層網域,noun,如果是與網域相關的內容，就是 top level domain 的縮寫
+TLD,TLD,noun,如果是與網域相關的內容，就是 top level domain 的縮寫
 TOC,TOC,noun,
 TOC,目錄,noun,
 TOC,內容目錄,noun,
@@ -2113,3 +2114,75 @@ Aside,記事,noun,WordPress 核心程式內建的文章格式 (Post Format) 之�
 Standard,標準,noun,WordPress 核心程式內建的文章格式 (Post Format) 之一，需要佈景主題支援才能顯示
 blockquote,段落引用,noun,
 security token,安全性憑證,noun,
+Generic top-level domain,通用頂層網域,noun,
+registry,網域註冊管理機構,noun,如果 registry 用於與網域註冊相關的內容，有一定的機會是指「網域註冊管理機構」。
+gTLD,gTLD,noun,Generic top-level domain (通用頂層網域) 的縮寫
+gTLD,通用頂層網域,noun,Generic top-level domain (通用頂層網域) 的縮寫
+ccTLD,ccTLD,noun,Country code top-level-domain (國家/地區代碼頂層網域) 的縮寫
+ccTLD,國家/地區代碼頂層網域,noun,Country code top-level-domain (國家/地區代碼頂層網域) 的縮寫
+Country code top-level-domain,國家/地區代碼頂層網域,noun,
+decentralize,分散式,verb,
+centralize,集中式,verb,
+decentralized,分散式,adjective,
+centralized,集中式,adjective,
+Black Friday,黑色星期五,noun,
+Cyber Monday,網購星期一,noun,
+Uyghur,維吾爾文,noun,語言名稱，介面中稱文不稱語
+MIME,MIME,noun,
+MIME Type,MIME 類型,noun,
+preserve,保留,verb,
+reserve,保留,verb,
+context menu,操作功能表,noun,
+dialog,對話,noun,
+dialog box,對話方塊,noun,
+dialog,對話方塊,noun,
+temporary directory,暫存目錄,noun,
+redo,取消復原,verb,
+unmount,卸載,verb,適用於連接儲存裝置
+mount,掛接,verb,適用於連接儲存裝置
+dismount,卸載,verb,適用於連接儲存裝置
+popup,彈出式訊息,noun,
+temporary file,暫存檔案,noun,
+playlist,播放清單,noun,
+threshold,臨界值,noun,
+threshold,閾值,noun,「閾值」對一般人來說比較不好理解，一般可以使用「臨界值」
+comma separated values,逗點分隔值,noun,檔案格式的一種，縮寫為 CSV
+CSV,CSV,noun,CSV 是 Comma Separated Values (逗點分隔值) 的縮寫，檔案格式的一種
+Portable Document Format,可攜式文件格式,noun,
+PDF,PDF,noun,PDF 是 Portable Document Format (可攜式文件格式) 的縮寫
+acquire,擷取,verb,
+algorithm,演算法,noun,
+hash,雜湊,noun,
+hash,雜湊值,noun,
+mouseover,游標暫留,noun,
+incremental search,累加搜尋,noun,
+impersonate,模擬,verb,
+malware,惡意程式碼,noun,
+phish,網路釣魚,noun,
+phishing,網路釣魚,noun,
+quick start,快速入門,noun,
+tutorial,教學課程,noun,
+LinkedIn,LinkedIn,noun,社交網路服務平台名稱
+TikTok,TikTok,noun,社交網路服務平台名稱
+campaign,廣告活動,noun,Google 官方譯文 (建議採用)
+uptime,運作時間,noun,
+downtime,停機時間,noun,
+outage,中斷,noun,
+incident,事件,noun,
+event,事件,noun,
+breakdown,解析,noun,
+spacer,空白間隔,noun,
+progress bar,進度列,noun,
+workaround,因應措施,noun,
+solution,解決方案,noun,
+query string,查詢字串,noun,
+check,核取,verb,操作對象為核取方塊 (Checkbox) 時使用
+uncheck,取消核取,verb,操作對象為核取方塊 (Checkbox) 時使用
+wipe,抹除,verb,
+tree view,樹狀檢視,noun,適用於檢視方式名稱
+tree,樹狀結構,noun,適用於說明結構顯示方式
+flat,平面,noun,
+flat,單層式,adjective,
+multicurrency,多重貨幣,noun,
+multi-currency,多重貨幣,noun,
+mailer,郵件程式,noun,
