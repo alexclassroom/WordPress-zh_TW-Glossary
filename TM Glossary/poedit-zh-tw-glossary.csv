@@ -523,7 +523,7 @@ Dubai,杜拜,洲、國家/地區、城市名稱
 Dublin,都柏林,洲、國家/地區、城市名稱
 DumontDUrville,迪蒙·迪維爾站,洲、國家/地區、城市名稱
 Dushanbe,杜尚貝,洲、國家/地區、城市名稱
-Dutch,荷蘭文,語言名稱，介面中稱文不稱語
+English,荷蘭文,語言名稱，介面中稱文不稱語
 Dutch (Belgium),荷蘭文 (比利時),語言名稱，介面中稱文不稱語
 Dutch (Formal),荷蘭文 (正式),語言名稱，介面中稱文不稱語
 Dzongkha,宗卡文,語言名稱，介面中稱文不稱語
@@ -1704,10 +1704,9 @@ Swedish krona,瑞典克朗,貨幣名稱
 Swift Current,斯威夫特卡倫特,
 Swiss franc,瑞士法郎,貨幣名稱
 switch,交換器,網路通訊裝置名稱
-switch,切換器,
+switch,切換,
 switcher,切換器,
 Sydney,雪梨,洲、國家/地區、城市名稱
-symbolic link,符號連結,
 symbolic link,符號連結,適用於作業系統及檔案系統
 symlink,符號連結,適用於作業系統及檔案系統，Symlink 通常是 Symbolic Link (符號連結) 的簡寫
 sync,同步,
@@ -1751,7 +1750,7 @@ Tehran,德黑蘭,洲、國家/地區、城市名稱
 Tel Aviv,特拉維夫,洲、國家/地區、城市名稱
 Telegram,Telegram,通訊軟體名稱
 Tell City,特爾城,洲、國家/地區、城市名稱
-Telugu,特拉古文,語言名稱，介面中稱文不稱語
+Telugu,泰盧固文,語言名稱，介面中稱文不稱語
 template,範本,
 template part,範本組件,適用於區塊編輯器、網站編輯器相關內容
 term,分類法詞彙,適用於 WordPress 分類法相關內容
@@ -2169,3 +2168,106 @@ multicurrency,多重貨幣,
 multi-currency,多重貨幣,
 mailer,郵件程式,
 lifetime license,終生授權,
+startup,啟動,
+startup folder,起始資料夾,
+startup,起始,
+multilingual,多語,
+multilingual,多語系,
+multi-purpose,多用途,
+multipurpose,多用途,
+starter kit,入門套件,
+starter,入門,
+starter,起始,
+kit,套件,
+cross-site,跨網站,
+cross site,跨網站,
+panel,面板,
+Sublime Text,Sublime Text,純文字編輯器名稱。
+Emacs,Emacs,純文字編輯器名稱。
+Vim,Vim,純文字編輯器名稱。
+fold,折疊,
+vault,保存庫,
+compatibility,相容性,
+command line,命令列,
+command,命令,
+whitespace,空白字元,
+non-whitespace,非空白字元,
+address book,通訊錄,
+one-time password,單次有效密碼,
+OTP,OTP,OTP 通常是 One-Time Password (單次有效密碼) 的縮寫
+OTP,單次有效密碼,OTP 通常是 One-Time Password (單次有效密碼) 的縮寫
+Gaelic,蓋爾文,語言名稱，介面中稱文不稱語
+Hawaiian,夏威夷文,語言名稱，介面中稱文不稱語
+Hmong,白苗文,語言名稱，介面中稱文不稱語
+Nyanja,尼揚賈文,語言名稱，介面中稱文不稱語
+Zulu,祖魯文,語言名稱，介面中稱文不稱語
+resend,重新傳送,
+open rate,開啟率,
+asynchronous,非同步,
+socket,通訊端,
+trillion,兆,不要直譯，該換算成本地用法就換算。舉例來說，10 thousand 是 1 萬 (不是 10 千)，12 million 是 1 千 2 百萬 (或 1200 萬，不是 12 百萬)，1.4 billion 是 14 億 (不是 1.4 十億)
+million,百萬,不要直譯，該換算成本地用法就換算。舉例來說，10 thousand 是 1 萬 (不是 10 千)，12 million 是 1 千 2 百萬 (或 1200 萬，不是 12 百萬)，1.4 billion 是 14 億 (不是 1.4 十億)
+thousand,千,不要直譯，該換算成本地用法就換算。舉例來說，10 thousand 是 1 萬 (不是 10 千)，12 million 是 1 千 2 百萬 (或 1200 萬，不是 12 百萬)，1.4 billion 是 14 億 (不是 1.4 十億)
+billion,十億,不要直譯，該換算成本地用法就換算。舉例來說，10 thousand 是 1 萬 (不是 10 千)，12 million 是 1 千 2 百萬 (或 1200 萬，不是 12 百萬)，1.4 billion 是 14 億 (不是 1.4 十億)
+infrastructure,基礎結構,
+one-to-one,一對一,
+encode,編碼,
+encoder,編碼器,
+decode,解碼,
+decoder,解碼器,
+pane,窗格,
+long-tail,長尾,
+long tail,長尾,
+notation,符號,
+annotation,註解,
+tilde,波狀符號,
+exclamation point,驚嘆號,
+percent,百分比符號,
+caret,插入號,
+ampersand,and 符號,
+apostrophe,單引號,
+backslash,反斜線,
+accent grave,抑音符號,
+left brace,左大括弧,
+right brace,右大括弧,
+left parenthesis,左括弧,
+right parenthesis,右括弧,
+comma,逗號,
+sandbox,沙箱,
+ad blocker,廣告攔截器,
+ad-blocker,廣告攔截器,
+adblocker,廣告攔截器,
+non-infringement,未侵權,
+noninfringement,未侵權,
+infringement,侵權,
+trigger,觸發,
+trigger,觸發程序,
+capability,權限,以 WordPress 使用這個字彙的實際用途及定義而言，絕大多數的時候是指「權限」。
+Lao People's Democratic Republi,寮國,
+Lao,寮國,
+Laos,寮國,
+United Kingdom of Great Britain and Northern Ireland,大不列顛及北愛爾蘭聯合王國,
+United Kingdom of Great Britain and Northern Ireland,英國,
+United States of America,美國,
+Holy See,梵蒂岡,
+United Kingdom,英國,
+United States,美國,
+North Korean,朝鮮,
+South Korean,韓國,
+Korea (the Republic of),韓國,
+Korea (the Democratic People's Republic of),朝鮮,
+Republic of North Macedonia,北馬其頓,
+Republic of North Macedonia,北馬其頓共和國,
+Côte d`Ivoire,象牙海岸,
+Falkland Islands,福克蘭群島,
+Malvinas,馬爾維納斯,
+virtual private network,虛擬私人網路,
+VPN,VPN,
+virtual private server,虛擬專屬伺服器,
+VPS,VPS,
+Shared Hosting,共享主機,
+structured data,結構化資料,
+BY,姓名標示,適用於 Creative Commons 創用 CC 授權方式
+NC,非商業性,適用於 Creative Commons 創用 CC 授權方式
+ND,禁止改作,適用於 Creative Commons 創用 CC 授權方式
+SA,相同方式分享,適用於 Creative Commons 創用 CC 授權方式

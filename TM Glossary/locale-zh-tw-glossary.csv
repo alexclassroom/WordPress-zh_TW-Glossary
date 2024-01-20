@@ -1719,10 +1719,9 @@ Swedish krona,瑞典克朗,noun,貨幣名稱
 Swift Current,斯威夫特卡倫特,noun,
 Swiss franc,瑞士法郎,noun,貨幣名稱
 switch,交換器,noun,網路通訊裝置名稱
-switch,切換器,verb,
+switch,切換,verb,
 switcher,切換器,noun,
 Sydney,雪梨,noun,洲、國家/地區、城市名稱
-symbolic link,符號連結,noun,
 symbolic link,符號連結,noun,適用於作業系統及檔案系統
 symlink,符號連結,noun,適用於作業系統及檔案系統，Symlink 通常是 Symbolic Link (符號連結) 的簡寫
 sync,同步,verb,
@@ -1766,7 +1765,7 @@ Tehran,德黑蘭,noun,洲、國家/地區、城市名稱
 Tel Aviv,特拉維夫,noun,洲、國家/地區、城市名稱
 Telegram,Telegram,noun,通訊軟體名稱
 Tell City,特爾城,noun,洲、國家/地區、城市名稱
-Telugu,特拉古文,noun,語言名稱，介面中稱文不稱語
+Telugu,泰盧固文,noun,語言名稱，介面中稱文不稱語
 template,範本,noun,
 template part,範本組件,noun,適用於區塊編輯器、網站編輯器相關內容
 term,分類法詞彙,noun,適用於 WordPress 分類法相關內容
@@ -2162,7 +2161,6 @@ phish,網路釣魚,noun,
 phishing,網路釣魚,noun,
 quick start,快速入門,noun,
 tutorial,教學課程,noun,
-LinkedIn,LinkedIn,noun,社交網路服務平台名稱
 TikTok,TikTok,noun,社交網路服務平台名稱
 campaign,廣告活動,noun,Google 官方譯文 (建議採用)
 uptime,運作時間,noun,
@@ -2186,3 +2184,108 @@ flat,單層式,adjective,
 multicurrency,多重貨幣,noun,
 multi-currency,多重貨幣,noun,
 mailer,郵件程式,noun,
+lifetime license,終生授權,noun,
+startup,啟動,verb,
+startup,啟動,noun,
+startup folder,起始資料夾,noun,
+startup,起始,adjective,
+multilingual,多語,adjective,
+multilingual,多語系,adjective,
+multi-purpose,多用途,adjective,
+multipurpose,多用途,adjective,
+starter kit,入門套件,noun,
+starter,入門,noun,
+starter,起始,noun,
+kit,套件,noun,
+cross-site,跨網站,noun,
+cross site,跨網站,noun,
+panel,面板,noun,
+Sublime Text,Sublime Text,noun,純文字編輯器名稱。
+Emacs,Emacs,noun,純文字編輯器名稱。
+Vim,Vim,noun,純文字編輯器名稱。
+fold,折疊,verb,
+vault,保存庫,noun,
+compatibility,相容性,noun,
+command line,命令列,noun,
+command,命令,noun,
+whitespace,空白字元,noun,
+non-whitespace,非空白字元,noun,
+address book,通訊錄,noun,
+one-time password,單次有效密碼,noun,
+OTP,OTP,noun,OTP 通常是 One-Time Password (單次有效密碼) 的縮寫
+OTP,單次有效密碼,noun,OTP 通常是 One-Time Password (單次有效密碼) 的縮寫
+Gaelic,蓋爾文,noun,語言名稱，介面中稱文不稱語
+Hawaiian,夏威夷文,noun,語言名稱，介面中稱文不稱語
+Hmong,白苗文,noun,語言名稱，介面中稱文不稱語
+Nyanja,尼揚賈文,noun,語言名稱，介面中稱文不稱語
+Zulu,祖魯文,noun,語言名稱，介面中稱文不稱語
+resend,重新傳送,verb,
+open rate,開啟率,noun,
+asynchronous,非同步,adjective,
+socket,通訊端,noun,
+trillion,兆,noun,不要直譯，該換算成本地用法就換算。舉例來說，10 thousand 是 1 萬 (不是 10 千)，12 million 是 1 千 2 百萬 (或 1200 萬，不是 12 百萬)，1.4 billion 是 14 億 (不是 1.4 十億)
+million,百萬,noun,不要直譯，該換算成本地用法就換算。舉例來說，10 thousand 是 1 萬 (不是 10 千)，12 million 是 1 千 2 百萬 (或 1200 萬，不是 12 百萬)，1.4 billion 是 14 億 (不是 1.4 十億)
+thousand,千,noun,不要直譯，該換算成本地用法就換算。舉例來說，10 thousand 是 1 萬 (不是 10 千)，12 million 是 1 千 2 百萬 (或 1200 萬，不是 12 百萬)，1.4 billion 是 14 億 (不是 1.4 十億)
+billion,十億,noun,不要直譯，該換算成本地用法就換算。舉例來說，10 thousand 是 1 萬 (不是 10 千)，12 million 是 1 千 2 百萬 (或 1200 萬，不是 12 百萬)，1.4 billion 是 14 億 (不是 1.4 十億)
+infrastructure,基礎結構,noun,
+one-to-one,一對一,noun,
+encode,編碼,verb,
+encoder,編碼器,noun,
+decode,解碼,verb,
+decoder,解碼器,noun,
+pane,窗格,noun,
+long-tail,長尾,adjective,
+long tail,長尾,adjective,
+notation,符號,noun,
+annotation,註解,noun,
+tilde,波狀符號,noun,
+exclamation point,驚嘆號,noun,
+percent,百分比符號,noun,
+caret,插入號,noun,
+ampersand,and 符號,noun,
+apostrophe,單引號,noun,
+backslash,反斜線,noun,
+accent grave,抑音符號,noun,
+left brace,左大括弧,noun,
+right brace,右大括弧,noun,
+left parenthesis,左括弧,noun,
+right parenthesis,右括弧,noun,
+comma,逗號,noun,
+sandbox,沙箱,noun,
+ad blocker,廣告攔截器,noun,
+ad-blocker,廣告攔截器,noun,
+adblocker,廣告攔截器,noun,
+non-infringement,未侵權,noun,
+noninfringement,未侵權,noun,
+infringement,侵權,noun,
+trigger,觸發,verb,
+trigger,觸發程序,noun,
+capability,權限,noun,以 WordPress 使用這個字彙的實際用途及定義而言，絕大多數的時候是指「權限」。
+Lao People's Democratic Republi,寮國,noun,
+Lao,寮國,noun,
+Laos,寮國,noun,
+United Kingdom of Great Britain and Northern Ireland,大不列顛及北愛爾蘭聯合王國,noun,
+United Kingdom of Great Britain and Northern Ireland,英國,noun,
+United States of America,美國,noun,
+Holy See,梵蒂岡,noun,
+United Kingdom,英國,noun,
+United States,美國,noun,
+North Korean,朝鮮,noun,
+South Korean,韓國,noun,
+Korea (the Republic of),韓國,noun,
+Korea (the Democratic People's Republic of),朝鮮,noun,
+Republic of North Macedonia,北馬其頓,noun,
+Republic of North Macedonia,北馬其頓共和國,noun,
+Côte d`Ivoire,象牙海岸,noun,
+Falkland Islands,福克蘭群島,noun,
+Malvinas,馬爾維納斯,noun,
+virtual private network,虛擬私人網路,noun,
+VPN,VPN,noun,VPN 通常是 Virtual Private Network (虛擬私人網路) 的縮寫
+virtual private server,虛擬專屬伺服器,noun,
+VPS,VPS,noun,VPS 通常是 Virtual Private Server (虛擬專屬伺服器) 的縮寫
+Shared Hosting,共享主機,noun,
+structured data,結構化資料,noun,
+BY,姓名標示,noun,適用於 Creative Commons 創用 CC 授權方式
+NC,非商業性,noun,適用於 Creative Commons 創用 CC 授權方式
+ND,禁止改作,noun,適用於 Creative Commons 創用 CC 授權方式
+SA,相同方式分享,noun,適用於 Creative Commons 創用 CC 授權方式
