@@ -1536,8 +1536,8 @@ scan,掃描,noun,
 scan,掃描,verb,
 schedule,排程,verb,
 scheduler,排程器,noun,
-schema,架構,noun,
-schema,結構描述,noun,
+schema,架構,noun,Microsoft 官方譯文
+schema,結構描述,noun,Microsoft 官方譯文
 Scoresbysund,斯可比,noun,洲、國家/地區、城市名稱
 Scottish Gaelic,蘇格蘭蓋爾文,noun,語言名稱，介面中稱文不稱語
 screen option,顯示項目設定,noun,
@@ -2289,3 +2289,29 @@ BY,姓名標示,noun,適用於 Creative Commons 創用 CC 授權方式
 NC,非商業性,noun,適用於 Creative Commons 創用 CC 授權方式
 ND,禁止改作,noun,適用於 Creative Commons 創用 CC 授權方式
 SA,相同方式分享,noun,適用於 Creative Commons 創用 CC 授權方式
+availability,可用性,noun,
+booking,預約,noun,
+check,檢查,verb,
+impression,曝光次數,noun,
+position,排名,noun,
+click,點擊次數,noun,
+instantiate,具現化,noun,適用於程式開發
+fine-tune,微調,verb,
+fine tune,微調,verb,
+blockchain,區塊鏈,noun,
+book,預約,verb,
+contextual menus,操作功能表,noun,
+schema,結構定義,noun,Google 官方譯文 (如果是網際網路及網站相關，建議採用)
+Rich Results Test,複合式搜尋結果測試,noun,Google 官方測試工具名稱
+Schema Markup Validator,結構定義標記驗證工具,noun,Google 官方測試工具名稱
+declaration,宣告,noun,
+unauthorized,未經授權的,adjective,
+timestamp,時間戳記,noun,
+Knowledge Graph,知識圖譜,noun,Google 官方譯文 (如果是網際網路及網站相關，建議採用)
+updater,更新程式,noun,
+sales funnel ,行銷漏斗,noun,
+Core Web Vitals,網站使用體驗核心指標,noun,這是 Google 推廣的網站評估指標，請使用 Google 官方譯文。
+compiler,編譯器,noun,
+CWV,CWV,noun,一般來說，CWV 會是 Core Web Vitals (網站使用體驗核心指標) 的縮寫
+Kyrgyz,吉爾吉斯文,noun,語言名稱，介面中稱文不稱語
+Farsi,波斯文,noun,語言名稱，介面中稱文不稱語
