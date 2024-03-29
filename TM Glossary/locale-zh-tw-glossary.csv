@@ -404,7 +404,6 @@ Content Management System,內容管理系統,noun,
 continue,繼續,verb,
 contributor,投稿者,noun,適用於 WordPress 預設使用者角色
 contributor,參與者,noun,
-Contributor Day,共創日,noun,指涉 WordPress 社群活動時使用
 control,控制項,noun,適用於程式開發
 control,控制,verb,
 Cookie,Cookie,noun,適用於搜尋引擎及瀏覽器相關內容
@@ -446,7 +445,7 @@ custom field,自訂欄位,noun,
 custom post type,自訂內容類型,noun,
 customer,客戶,noun,
 customize,自訂,verb,
-customizer,外觀自訂器,noun,用於佈景主題外觀自訂的情境
+customizer,外觀自訂器,noun,自訂傳統佈景主題 (Classic Theme) 外觀時的使用者介面
 Czech,捷克文,noun,語言名稱，介面中稱文不稱語
 Czech koruna,捷克克朗,noun,貨幣名稱
 Dacca,達卡,noun,洲、國家/地區、城市名稱
@@ -2316,3 +2315,6 @@ compiler,編譯器,noun,
 CWV,CWV,noun,一般來說，CWV 會是 Core Web Vitals (網站使用體驗核心指標) 的縮寫
 Kyrgyz,吉爾吉斯文,noun,語言名稱，介面中稱文不稱語
 Farsi,波斯文,noun,語言名稱，介面中稱文不稱語
+multilevel,多層,adjective,
+nested,巢狀,adjective,
+Contributor Day,共創日,noun,WordPress 台灣社群活動舉辦 Contributor Day 的標準譯文
