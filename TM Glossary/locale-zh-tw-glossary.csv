@@ -1447,7 +1447,6 @@ regular expression,規則運算式,noun,適用於程式開發
 regular price,原價,noun,
 relative path,相對路徑,noun,
 remove,移除,verb,
-render,轉譯,verb,
 render,轉譯,verb,適用於程式開發
 render,轉譯,noun,適用於程式開發
 rep,代表,noun,在外掛目錄或佈景主題中，Rep 通常是 Representative (代表) 的縮寫。舉例來說，Support rep 或 Support Representative 即為「技術支援代表」。
@@ -2184,7 +2183,7 @@ flat,單層式,adjective,
 multicurrency,多重貨幣,noun,
 multi-currency,多重貨幣,noun,
 mailer,郵件程式,noun,
-lifetime license,終生授權,noun,
+lifetime license,永久授權,noun,
 startup,啟動,verb,
 startup,啟動,noun,
 startup folder,起始資料夾,noun,
@@ -2318,3 +2317,29 @@ Farsi,波斯文,noun,語言名稱，介面中稱文不稱語
 multilevel,多層,adjective,
 nested,巢狀,adjective,
 Contributor Day,共創日,noun,WordPress 台灣社群活動舉辦 Contributor Day 的標準譯文
+prefetch,預先擷取,verb,
+prerender,預先轉譯,verb,
+render,轉譯器,noun,
+time stamp,時間戳記,noun,
+banner,橫幅,noun,
+announcement,公告,noun,
+block hook,關聯式區塊,noun,這裡的 Hook 不是程式開發字彙「勾點」，而是指一種從 WordPress 6.4 開始導入，會在區塊的相對位置自動插入另一個關聯區塊的機制。
+watermark,浮水印,noun,
+nonbreaking space,不分行空格,noun,
+non breaking space,不分行空格,noun,
+dash,虛線,noun,
+dash,破折號,noun,
+em dash,長破折號,noun,
+en dash,短破折號,noun,
+Eswatini,史瓦帝尼,noun,洲、國家/地區、城市名稱
+Curaçao,古拉果,noun,洲、國家/地區、城市名稱
+Curacao,古拉果,noun,洲、國家/地區、城市名稱
+Sint Eustatius,聖佑達修斯,noun,洲、國家/地區、城市名稱
+Saba,沙巴,noun,洲、國家/地區、城市名稱
+Bonaire,波奈,noun,洲、國家/地區、城市名稱
+debugger,偵錯工具,noun,
+user agent,使用者代理程式,noun,
+Apache,Apache,noun,網頁伺服器名稱
+NGINX,NGINX,noun,網頁伺服器名稱
+strong password policy,強式密碼原則,noun,
+strong password,強式密碼,noun,

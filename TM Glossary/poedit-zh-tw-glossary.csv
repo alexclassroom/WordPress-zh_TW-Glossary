@@ -2167,7 +2167,7 @@ flat,單層式,
 multicurrency,多重貨幣,
 multi-currency,多重貨幣,
 mailer,郵件程式,
-lifetime license,終生授權,
+lifetime license,永久授權,
 startup,啟動,
 startup folder,起始資料夾,
 startup,起始,
@@ -2300,3 +2300,29 @@ Farsi,波斯文,語言名稱，介面中稱文不稱語
 multilevel,多層,
 nested,巢狀,
 Contributor Day,共創日,WordPress 台灣社群活動舉辦 Contributor Day 的標準譯文
+prefetch,預先擷取,
+prerender,預先轉譯,
+render,轉譯器,
+time stamp,時間戳記,
+banner,橫幅,
+announcement,公告,
+block hook,關聯式區塊,這裡的 Hook 不是程式開發字彙「勾點」，而是指一種從 WordPress 6.4 開始導入，會在區塊的相對位置自動插入另一個關聯區塊的機制。
+watermark,浮水印,
+nonbreaking space,不分行空格,
+non breaking space,不分行空格,
+dash,虛線,
+dash,破折號,
+em dash,長破折號,
+en dash,短破折號,
+Eswatini,史瓦帝尼,洲、國家/地區、城市名稱
+Curaçao,古拉果,洲、國家/地區、城市名稱
+Curacao,古拉果,洲、國家/地區、城市名稱
+Sint Eustatius,聖佑達修斯,洲、國家/地區、城市名稱
+Saba,沙巴,洲、國家/地區、城市名稱
+Bonaire,波奈,洲、國家/地區、城市名稱
+debugger,偵錯工具,
+user agent,使用者代理程式,
+Apache,Apache,網頁伺服器名稱
+NGINX,NGINX,網頁伺服器名稱
+strong password policy,強式密碼原則,
+strong password,強式密碼,
