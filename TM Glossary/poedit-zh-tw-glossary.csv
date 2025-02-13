@@ -1459,7 +1459,7 @@ revoke,撤銷,
 rewrite,重新寫入,
 rewrite rule,重新寫入規則,
 Reykjavik,雷克雅維克,洲、國家/地區、城市名稱
-rich snippet,複合式摘要,
+rich snippet,複合式搜尋結果,
 Riga,里加,洲、國家/地區、城市名稱
 right arrow key,向右鍵,鍵盤按鍵名稱
 Right to Left,從右至左,文字方向
@@ -1781,8 +1781,8 @@ TinyMCE,TinyMCE,
 Tirane,地拉那,洲、國家/地區、城市名稱
 Tiraspol,提拉斯浦,洲、國家/地區、城市名稱
 title,標題,
-TLD,頂層網域,如果是與網域相關的內容，就是 top level domain 的縮寫
-TLD,TLD,如果是與網域相關的內容，就是 top level domain 的縮寫
+TLD,頂層網域,如果是與網域相關的內容，就是 top level domain (頂層網域) 的縮寫
+TLD,TLD,如果是與網域相關的內容，就是 top level domain (頂層網域) 的縮寫
 TOC,TOC,
 TOC,目錄,
 TOC,內容目錄,
@@ -2316,13 +2316,225 @@ em dash,長破折號,
 en dash,短破折號,
 Eswatini,史瓦帝尼,洲、國家/地區、城市名稱
 Curaçao,古拉果,洲、國家/地區、城市名稱
-Curacao,古拉果,洲、國家/地區、城市名稱
 Sint Eustatius,聖佑達修斯,洲、國家/地區、城市名稱
 Saba,沙巴,洲、國家/地區、城市名稱
 Bonaire,波奈,洲、國家/地區、城市名稱
 debugger,偵錯工具,
-user agent,使用者代理程式,
-Apache,Apache,網頁伺服器名稱
-NGINX,NGINX,網頁伺服器名稱
 strong password policy,強式密碼原則,
 strong password,強式密碼,
+client-side,用戶端,
+server-side,伺服器端,
+clickthrough rate,點閱率,
+CTR,CTR,一般來說，CTR 會是 clickthrough rate (點閱率) 的縮寫
+bare metal,裸機,
+bare metal,裸機電腦,
+best practice,最佳做法,
+LCP,LCP,LCP 是 Largest Contentful Paint (最大內容繪製) 的縮寫
+Largest Contentful Paint,最大內容繪製,
+domain forwarding,網域轉址,
+email forwarding,電子郵件轉寄,
+security layer,安全性階層,
+backtick,抑音符號,
+grave,抑音符號,
+grave accent,抑音符號,
+single-byte,單位元組,
+double-byte,雙位元組,
+byte,位元組,
+TTFB,FTTB,一般來說，FTTB 會是 Fisrt Time to Byte (第一個位元組時間) 的縮寫
+Time to First Byte,第一個位元組時間,
+truncate,截斷,
+intercept,攔截,
+interceptor,攔截器,
+Headless CMS,無周邊內容管理系統,來自 Adobe 的譯文
+Cross-origin resource sharing,跨源資源共享,
+CORS,CORS,一般來說，CORS 會是 Cross-origin resource sharing (跨源資源共享) 的縮寫
+code review,程式碼檢閱,
+handle,控制代碼,
+handler,處理常式,
+property,屬性,
+resize,調整尺寸,以圖片來說的話是「調整尺寸」
+resize,調整大小,以欄位來說的話是「調整大小」
+SSL,SSL,
+Secure Sockets Layer,安全資料傳輸層,
+TLS,TLS,
+Transport Layer Security,傳輸層安全標準,
+checksum,總和檢查碼,
+mechanism,機制,
+local business,本地商家,
+forward slash,正斜線 (/),
+Zimbabwe,辛巴威,洲、國家/地區、城市名稱
+Uganda,烏干達,洲、國家/地區、城市名稱
+Ukraine,烏克蘭,洲、國家/地區、城市名稱
+United Arab Emirates,阿拉伯聯合大公國,洲、國家/地區、城市名稱
+Uruguay,烏拉圭,洲、國家/地區、城市名稱
+Uzbekistan,烏茲別克,洲、國家/地區、城市名稱
+Vanuatu,萬那杜,洲、國家/地區、城市名稱
+Wallis and Futuna,瓦利斯及福杜納,洲、國家/地區、城市名稱
+Western Sahara,西撒哈拉,洲、國家/地區、城市名稱
+Yemen,葉門,洲、國家/地區、城市名稱
+Zambia,尚比亞,洲、國家/地區、城市名稱
+Afghanistan,阿富汗,洲、國家/地區、城市名稱
+Albania,阿爾巴尼亞,洲、國家/地區、城市名稱
+Algeria,阿爾及利亞,洲、國家/地區、城市名稱
+American Samoa,美屬薩摩亞,洲、國家/地區、城市名稱
+Angola,安哥拉,洲、國家/地區、城市名稱
+Antigua and Barbuda,安地卡及巴布達,洲、國家/地區、城市名稱
+Armenia,亞美尼亞,洲、國家/地區、城市名稱
+Austria,奧地利,洲、國家/地區、城市名稱
+Azerbaijan,亞塞拜然,洲、國家/地區、城市名稱
+Bahamas,巴哈馬,洲、國家/地區、城市名稱
+Bangladesh,孟加拉,洲、國家/地區、城市名稱
+Belarus,白羅斯,洲、國家/地區、城市名稱
+Belgium,比利時,洲、國家/地區、城市名稱
+Benin,貝南,洲、國家/地區、城市名稱
+Bhutan,不丹,洲、國家/地區、城市名稱
+Bosnia and Herzegovina,波士尼亞及赫塞哥維納,洲、國家/地區、城市名稱
+Botswana,波札那,洲、國家/地區、城市名稱
+Bouvet Island,布威島,洲、國家/地區、城市名稱
+Brazil,巴西,洲、國家/地區、城市名稱
+British Indian Ocean Territory,英屬印度洋領土,洲、國家/地區、城市名稱
+Bulgaria,保加利亞,洲、國家/地區、城市名稱
+Burkina Faso,布吉納法索,洲、國家/地區、城市名稱
+Burundi,蒲隆地,洲、國家/地區、城市名稱
+Cambodia,柬埔寨,洲、國家/地區、城市名稱
+Cameroon,喀麥隆,洲、國家/地區、城市名稱
+Canada,加拿大,洲、國家/地區、城市名稱
+Cayman Islands,開曼群島,洲、國家/地區、城市名稱
+Central African Republic,中非共和國,洲、國家/地區、城市名稱
+Chad,查德,洲、國家/地區、城市名稱
+Chile,智利,洲、國家/地區、城市名稱
+China,中國,洲、國家/地區、城市名稱
+Colombia,哥倫比亞,洲、國家/地區、城市名稱
+Cook Islands,柯克群島,洲、國家/地區、城市名稱
+Croatia,克羅埃西亞,洲、國家/地區、城市名稱
+Cuba,古巴,洲、國家/地區、城市名稱
+Cyprus,賽普勒斯,洲、國家/地區、城市名稱
+Dominican Republic,多明尼加共和國,洲、國家/地區、城市名稱
+Ecuador,厄瓜多爾,洲、國家/地區、城市名稱
+Egypt,埃及,洲、國家/地區、城市名稱
+Equatorial Guinea,赤道幾內亞,洲、國家/地區、城市名稱
+Eritrea,厄利垂亞,洲、國家/地區、城市名稱
+Estonia,愛沙尼亞,洲、國家/地區、城市名稱
+Ethiopia,衣索比亞,洲、國家/地區、城市名稱
+Faroe Islands,法羅群島,洲、國家/地區、城市名稱
+Finland,芬蘭,洲、國家/地區、城市名稱
+France,法國,洲、國家/地區、城市名稱
+French Guiana,法屬圭亞那,洲、國家/地區、城市名稱
+French Polynesia,法屬玻里尼西亞,洲、國家/地區、城市名稱
+French Southern Territories,法屬南半球領土,洲、國家/地區、城市名稱
+Gabon,加彭,洲、國家/地區、城市名稱
+Gambia,甘比亞,洲、國家/地區、城市名稱
+Germany,德國,洲、國家/地區、城市名稱
+Greece,希臘,洲、國家/地區、城市名稱
+Greenland,格陵蘭,洲、國家/地區、城市名稱
+Guinea,幾內亞,洲、國家/地區、城市名稱
+Guinea-Bissau,幾內亞比索,洲、國家/地區、城市名稱
+Haiti,海地,洲、國家/地區、城市名稱
+Heard Island and McDonald Islands,赫德島及麥當勞群島,洲、國家/地區、城市名稱
+Honduras,宏都拉斯,洲、國家/地區、城市名稱
+Hungary,匈牙利,洲、國家/地區、城市名稱
+Iceland,冰島,洲、國家/地區、城市名稱
+India,印度,洲、國家/地區、城市名稱
+Indonesia,印尼,洲、國家/地區、城市名稱
+Iraq,伊拉克,洲、國家/地區、城市名稱
+Ireland,愛爾蘭,洲、國家/地區、城市名稱
+Israel,以色列,洲、國家/地區、城市名稱
+Italy,義大利,洲、國家/地區、城市名稱
+Japan,日本,洲、國家/地區、城市名稱
+Jordan,約旦,洲、國家/地區、城市名稱
+Kazakhstan,哈薩克,洲、國家/地區、城市名稱
+Kenya,肯亞,洲、國家/地區、城市名稱
+Kiribati,吉里巴斯,洲、國家/地區、城市名稱
+Kyrgyzstan,吉爾吉斯,洲、國家/地區、城市名稱
+Latvia,拉脫維亞,洲、國家/地區、城市名稱
+Lebanon,黎巴嫩,洲、國家/地區、城市名稱
+Lesotho,賴索托,洲、國家/地區、城市名稱
+Liberia,賴比瑞亞,洲、國家/地區、城市名稱
+Liechtenstein,列支敦斯登,洲、國家/地區、城市名稱
+Lithuania,立陶宛,洲、國家/地區、城市名稱
+Madagascar,馬達加斯加,洲、國家/地區、城市名稱
+Malawi,馬拉威,洲、國家/地區、城市名稱
+Malaysia,馬來西亞,洲、國家/地區、城市名稱
+Mali,馬利,洲、國家/地區、城市名稱
+Marshall Islands,馬紹爾群島,洲、國家/地區、城市名稱
+Mauritania,茅利塔尼亞,洲、國家/地區、城市名稱
+Mexico,墨西哥,洲、國家/地區、城市名稱
+Mongolia,蒙古,洲、國家/地區、城市名稱
+Montenegro,蒙特內哥羅,洲、國家/地區、城市名稱
+Morocco,摩洛哥,洲、國家/地區、城市名稱
+Mozambique,莫三比克,洲、國家/地區、城市名稱
+Namibia,納米比亞,洲、國家/地區、城市名稱
+Nepal,尼泊爾,洲、國家/地區、城市名稱
+Netherlands,荷蘭,洲、國家/地區、城市名稱
+Netherlands Antilles,荷屬安地列斯,洲、國家/地區、城市名稱
+New Caledonia,新喀里多尼亞群島,洲、國家/地區、城市名稱
+New Zealand,紐西蘭,洲、國家/地區、城市名稱
+Nicaragua,尼加拉瓜,洲、國家/地區、城市名稱
+Niger,尼日,洲、國家/地區、城市名稱
+Nigeria,奈及利亞,洲、國家/地區、城市名稱
+Norfolk Island,諾福克島,洲、國家/地區、城市名稱
+Northern Mariana Islands,北馬里安納群島,洲、國家/地區、城市名稱
+Norway,挪威,洲、國家/地區、城市名稱
+Oman,阿曼,洲、國家/地區、城市名稱
+Pakistan,巴基斯坦,洲、國家/地區、城市名稱
+Papua New Guinea,巴布亞紐幾內亞,洲、國家/地區、城市名稱
+Paraguay,巴拉圭,洲、國家/地區、城市名稱
+Peru,祕魯,洲、國家/地區、城市名稱
+Philippines,菲律賓,洲、國家/地區、城市名稱
+Poland,波蘭,洲、國家/地區、城市名稱
+Portugal,葡萄牙,洲、國家/地區、城市名稱
+Romania,羅馬尼亞,洲、國家/地區、城市名稱
+Rwanda,盧安達,洲、國家/地區、城市名稱
+Saint Helena,聖赫勒拿島,洲、國家/地區、城市名稱
+Saint Kitts and Nevis,聖克里斯多福及尼維斯,洲、國家/地區、城市名稱
+Saint Lucia,聖露西亞,洲、國家/地區、城市名稱
+Saint Martin (French part),法屬聖馬丁,洲、國家/地區、城市名稱
+Saint Pierre and Miquelon,聖匹島,洲、國家/地區、城市名稱
+Saint Vincent and the Grenadines,聖文森及格瑞那丁,洲、國家/地區、城市名稱
+Saudi Arabia,沙烏地阿拉伯,洲、國家/地區、城市名稱
+Senegal,塞內加爾,洲、國家/地區、城市名稱
+Serbia,塞爾維亞,洲、國家/地區、城市名稱
+Seychelles,塞席爾,洲、國家/地區、城市名稱
+Sierra Leone,獅子山,洲、國家/地區、城市名稱
+Slovakia,斯洛伐克,洲、國家/地區、城市名稱
+Slovenia,斯洛維尼亞,洲、國家/地區、城市名稱
+Solomon Islands,索羅門群島,洲、國家/地區、城市名稱
+Somalia,索馬利亞,洲、國家/地區、城市名稱
+South Africa,南非,洲、國家/地區、城市名稱
+South Georgia and the South Sandwich Islands,南喬治亞及南三明治群島,洲、國家/地區、城市名稱
+Spain,西班牙,洲、國家/地區、城市名稱
+Sri Lanka,斯里蘭卡,洲、國家/地區、城市名稱
+Sudan,蘇丹,洲、國家/地區、城市名稱
+Suriname,蘇利南,洲、國家/地區、城市名稱
+Svalbard and Jan Mayen,冷岸及央棉,洲、國家/地區、城市名稱
+Swaziland,史瓦濟蘭,洲、國家/地區、城市名稱
+Sweden,瑞典,洲、國家/地區、城市名稱
+Switzerland,瑞士,洲、國家/地區、城市名稱
+Tajikistan,塔吉克,洲、國家/地區、城市名稱
+Thailand,泰國,洲、國家/地區、城市名稱
+Timor-Leste,東帝汶,洲、國家/地區、城市名稱
+Togo,多哥,洲、國家/地區、城市名稱
+Tokelau,托克勞群島,洲、國家/地區、城市名稱
+Trinidad and Tobago,千里達及托巴哥,洲、國家/地區、城市名稱
+Tunisia,突尼西亞,洲、國家/地區、城市名稱
+Turkey,土耳其,洲、國家/地區、城市名稱
+Turkmenistan,土庫曼,洲、國家/地區、城市名稱
+Turks and Caicos Islands,土克斯及開科斯群島,洲、國家/地區、城市名稱
+Tuvalu,吐瓦魯,洲、國家/地區、城市名稱
+offload,卸載,
+worker,背景工作,
+INP,INP,INP 是 Interaction to Next Paint (與下一個顯示內容的互動時間) 的縮寫
+Interaction to Next Paint,與下一個顯示內容的互動時間,
+CLS,CLS,CLS 是 Cumulative Layout Shift (累計版面配置位移) 的縮寫
+Cumulative Layout Shift,累計版面配置位移,
+FCP,FCP,FCP 是 First Contentful Paint (首次顯示內容所需時間) 的縮寫
+First Contentful Paint,首次顯示內容所需時間,
+Speed Index,速度指標,
+namespace,命名空間,
+packet,封包,網際網路資料傳輸時使用
+Packet Sniffing,封包偵測,網際網路資料傳輸時使用
+Hash Message Authentication Code,金鑰雜湊訊息驗證碼,
+HMAC,HMAC,HMAC 是 Hash Message Authentication Code (金鑰雜湊訊息驗證碼) 的縮寫
+referrer,參照連結網址,適用於網站分析 (例如 Google Analytics)，即經由其他來源 (例如透過第三方網域的連結) 來到網站的流量區隔。
+referrer,推薦連結來源網址,適用於網路廣告 (例如 Google Ads)，即透過連結將訪客連到網站的網頁，也就是使用者到達廣告目標網頁前所在的網頁。
+rich results,複合式搜尋結果,

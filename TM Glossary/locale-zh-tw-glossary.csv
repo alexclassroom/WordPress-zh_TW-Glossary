@@ -1471,7 +1471,7 @@ revoke,撤銷,verb,
 rewrite,重新寫入,verb,
 rewrite rule,重新寫入規則,noun,
 Reykjavik,雷克雅維克,noun,洲、國家/地區、城市名稱
-rich snippet,複合式摘要,noun,
+rich snippet,複合式搜尋結果,noun,
 Riga,里加,noun,洲、國家/地區、城市名稱
 right arrow key,向右鍵,noun,鍵盤按鍵名稱
 Right to Left,從右至左,noun,文字方向
@@ -1796,8 +1796,8 @@ TinyMCE,TinyMCE,noun,
 Tirane,地拉那,noun,洲、國家/地區、城市名稱
 Tiraspol,提拉斯浦,noun,洲、國家/地區、城市名稱
 title,標題,noun,
-TLD,頂層網域,noun,如果是與網域相關的內容，就是 top level domain 的縮寫
-TLD,TLD,noun,如果是與網域相關的內容，就是 top level domain 的縮寫
+TLD,頂層網域,noun,如果是與網域相關的內容，就是 top level domain (頂層網域) 的縮寫
+TLD,TLD,noun,如果是與網域相關的內容，就是 top level domain (頂層網域) 的縮寫
 TOC,TOC,noun,
 TOC,目錄,noun,
 TOC,內容目錄,noun,
@@ -2333,13 +2333,225 @@ em dash,長破折號,noun,
 en dash,短破折號,noun,
 Eswatini,史瓦帝尼,noun,洲、國家/地區、城市名稱
 Curaçao,古拉果,noun,洲、國家/地區、城市名稱
-Curacao,古拉果,noun,洲、國家/地區、城市名稱
 Sint Eustatius,聖佑達修斯,noun,洲、國家/地區、城市名稱
 Saba,沙巴,noun,洲、國家/地區、城市名稱
 Bonaire,波奈,noun,洲、國家/地區、城市名稱
 debugger,偵錯工具,noun,
-user agent,使用者代理程式,noun,
-Apache,Apache,noun,網頁伺服器名稱
-NGINX,NGINX,noun,網頁伺服器名稱
 strong password policy,強式密碼原則,noun,
 strong password,強式密碼,noun,
+client-side,用戶端,noun,
+server-side,伺服器端,noun,
+clickthrough rate,點閱率,noun,
+CTR,CTR,noun,一般來說，CTR 會是 clickthrough rate (點閱率) 的縮寫
+bare metal,裸機,noun,
+bare metal,裸機電腦,noun,
+best practice,最佳做法,noun,
+LCP,LCP,noun,LCP 是 Largest Contentful Paint (最大內容繪製) 的縮寫
+Largest Contentful Paint,最大內容繪製,noun,
+domain forwarding,網域轉址,noun,
+email forwarding,電子郵件轉寄,noun,
+security layer,安全性階層,noun,
+backtick,抑音符號,noun,
+grave,抑音符號,noun,
+grave accent,抑音符號,noun,
+single-byte,單位元組,noun,
+double-byte,雙位元組,noun,
+byte,位元組,noun,
+TTFB,FTTB,noun,一般來說，FTTB 會是 Fisrt Time to Byte (第一個位元組時間) 的縮寫
+Time to First Byte,第一個位元組時間,noun,
+truncate,截斷,verb,
+intercept,攔截,verb,
+interceptor,攔截器,noun,
+Headless CMS,無周邊內容管理系統,noun,來自 Adobe 的譯文
+Cross-origin resource sharing,跨源資源共享,noun,
+CORS,CORS,noun,一般來說，CORS 會是 Cross-origin resource sharing (跨源資源共享) 的縮寫
+code review,程式碼檢閱,noun,
+handle,控制代碼,noun,
+handler,處理常式,noun,
+property,屬性,noun,
+resize,調整尺寸,verb,以圖片來說的話是「調整尺寸」
+resize,調整大小,verb,以欄位來說的話是「調整大小」
+SSL,SSL,noun,一般來說，SSL 會是 Secure Sockets Layer (安全資料傳輸層) 的縮寫
+Secure Sockets Layer,安全資料傳輸層,noun,
+TLS,TLS,noun,一般來說，TLS 會是 Transport Layer Security (傳輸層安全標準) 的縮寫
+Transport Layer Security,傳輸層安全標準,noun,
+checksum,總和檢查碼,noun,
+mechanism,機制,noun,
+local business,本地商家,noun,
+forward slash,正斜線 (/),noun,
+Zimbabwe,辛巴威,noun,洲、國家/地區、城市名稱
+Uganda,烏干達,noun,洲、國家/地區、城市名稱
+Ukraine,烏克蘭,noun,洲、國家/地區、城市名稱
+United Arab Emirates,阿拉伯聯合大公國,noun,洲、國家/地區、城市名稱
+Uruguay,烏拉圭,noun,洲、國家/地區、城市名稱
+Uzbekistan,烏茲別克,noun,洲、國家/地區、城市名稱
+Vanuatu,萬那杜,noun,洲、國家/地區、城市名稱
+Wallis and Futuna,瓦利斯及福杜納,noun,洲、國家/地區、城市名稱
+Western Sahara,西撒哈拉,noun,洲、國家/地區、城市名稱
+Yemen,葉門,noun,洲、國家/地區、城市名稱
+Zambia,尚比亞,noun,洲、國家/地區、城市名稱
+Afghanistan,阿富汗,noun,洲、國家/地區、城市名稱
+Albania,阿爾巴尼亞,noun,洲、國家/地區、城市名稱
+Algeria,阿爾及利亞,noun,洲、國家/地區、城市名稱
+American Samoa,美屬薩摩亞,noun,洲、國家/地區、城市名稱
+Angola,安哥拉,noun,洲、國家/地區、城市名稱
+Antigua and Barbuda,安地卡及巴布達,noun,洲、國家/地區、城市名稱
+Armenia,亞美尼亞,noun,洲、國家/地區、城市名稱
+Austria,奧地利,noun,洲、國家/地區、城市名稱
+Azerbaijan,亞塞拜然,noun,洲、國家/地區、城市名稱
+Bahamas,巴哈馬,noun,洲、國家/地區、城市名稱
+Bangladesh,孟加拉,noun,洲、國家/地區、城市名稱
+Belarus,白羅斯,noun,洲、國家/地區、城市名稱
+Belgium,比利時,noun,洲、國家/地區、城市名稱
+Benin,貝南,noun,洲、國家/地區、城市名稱
+Bhutan,不丹,noun,洲、國家/地區、城市名稱
+Bosnia and Herzegovina,波士尼亞及赫塞哥維納,noun,洲、國家/地區、城市名稱
+Botswana,波札那,noun,洲、國家/地區、城市名稱
+Bouvet Island,布威島,noun,洲、國家/地區、城市名稱
+Brazil,巴西,noun,洲、國家/地區、城市名稱
+British Indian Ocean Territory,英屬印度洋領土,noun,洲、國家/地區、城市名稱
+Bulgaria,保加利亞,noun,洲、國家/地區、城市名稱
+Burkina Faso,布吉納法索,noun,洲、國家/地區、城市名稱
+Burundi,蒲隆地,noun,洲、國家/地區、城市名稱
+Cambodia,柬埔寨,noun,洲、國家/地區、城市名稱
+Cameroon,喀麥隆,noun,洲、國家/地區、城市名稱
+Canada,加拿大,noun,洲、國家/地區、城市名稱
+Cayman Islands,開曼群島,noun,洲、國家/地區、城市名稱
+Central African Republic,中非共和國,noun,洲、國家/地區、城市名稱
+Chad,查德,noun,洲、國家/地區、城市名稱
+Chile,智利,noun,洲、國家/地區、城市名稱
+China,中國,noun,洲、國家/地區、城市名稱
+Colombia,哥倫比亞,noun,洲、國家/地區、城市名稱
+Cook Islands,柯克群島,noun,洲、國家/地區、城市名稱
+Croatia,克羅埃西亞,noun,洲、國家/地區、城市名稱
+Cuba,古巴,noun,洲、國家/地區、城市名稱
+Cyprus,賽普勒斯,noun,洲、國家/地區、城市名稱
+Dominican Republic,多明尼加共和國,noun,洲、國家/地區、城市名稱
+Ecuador,厄瓜多爾,noun,洲、國家/地區、城市名稱
+Egypt,埃及,noun,洲、國家/地區、城市名稱
+Equatorial Guinea,赤道幾內亞,noun,洲、國家/地區、城市名稱
+Eritrea,厄利垂亞,noun,洲、國家/地區、城市名稱
+Estonia,愛沙尼亞,noun,洲、國家/地區、城市名稱
+Ethiopia,衣索比亞,noun,洲、國家/地區、城市名稱
+Faroe Islands,法羅群島,noun,洲、國家/地區、城市名稱
+Finland,芬蘭,noun,洲、國家/地區、城市名稱
+France,法國,noun,洲、國家/地區、城市名稱
+French Guiana,法屬圭亞那,noun,洲、國家/地區、城市名稱
+French Polynesia,法屬玻里尼西亞,noun,洲、國家/地區、城市名稱
+French Southern Territories,法屬南半球領土,noun,洲、國家/地區、城市名稱
+Gabon,加彭,noun,洲、國家/地區、城市名稱
+Gambia,甘比亞,noun,洲、國家/地區、城市名稱
+Germany,德國,noun,洲、國家/地區、城市名稱
+Greece,希臘,noun,洲、國家/地區、城市名稱
+Greenland,格陵蘭,noun,洲、國家/地區、城市名稱
+Guinea,幾內亞,noun,洲、國家/地區、城市名稱
+Guinea-Bissau,幾內亞比索,noun,洲、國家/地區、城市名稱
+Haiti,海地,noun,洲、國家/地區、城市名稱
+Heard Island and McDonald Islands,赫德島及麥當勞群島,noun,洲、國家/地區、城市名稱
+Honduras,宏都拉斯,noun,洲、國家/地區、城市名稱
+Hungary,匈牙利,noun,洲、國家/地區、城市名稱
+Iceland,冰島,noun,洲、國家/地區、城市名稱
+India,印度,noun,洲、國家/地區、城市名稱
+Indonesia,印尼,noun,洲、國家/地區、城市名稱
+Iraq,伊拉克,noun,洲、國家/地區、城市名稱
+Ireland,愛爾蘭,noun,洲、國家/地區、城市名稱
+Israel,以色列,noun,洲、國家/地區、城市名稱
+Italy,義大利,noun,洲、國家/地區、城市名稱
+Japan,日本,noun,洲、國家/地區、城市名稱
+Jordan,約旦,noun,洲、國家/地區、城市名稱
+Kazakhstan,哈薩克,noun,洲、國家/地區、城市名稱
+Kenya,肯亞,noun,洲、國家/地區、城市名稱
+Kiribati,吉里巴斯,noun,洲、國家/地區、城市名稱
+Kyrgyzstan,吉爾吉斯,noun,洲、國家/地區、城市名稱
+Latvia,拉脫維亞,noun,洲、國家/地區、城市名稱
+Lebanon,黎巴嫩,noun,洲、國家/地區、城市名稱
+Lesotho,賴索托,noun,洲、國家/地區、城市名稱
+Liberia,賴比瑞亞,noun,洲、國家/地區、城市名稱
+Liechtenstein,列支敦斯登,noun,洲、國家/地區、城市名稱
+Lithuania,立陶宛,noun,洲、國家/地區、城市名稱
+Madagascar,馬達加斯加,noun,洲、國家/地區、城市名稱
+Malawi,馬拉威,noun,洲、國家/地區、城市名稱
+Malaysia,馬來西亞,noun,洲、國家/地區、城市名稱
+Mali,馬利,noun,洲、國家/地區、城市名稱
+Marshall Islands,馬紹爾群島,noun,洲、國家/地區、城市名稱
+Mauritania,茅利塔尼亞,noun,洲、國家/地區、城市名稱
+Mexico,墨西哥,noun,洲、國家/地區、城市名稱
+Mongolia,蒙古,noun,洲、國家/地區、城市名稱
+Montenegro,蒙特內哥羅,noun,洲、國家/地區、城市名稱
+Morocco,摩洛哥,noun,洲、國家/地區、城市名稱
+Mozambique,莫三比克,noun,洲、國家/地區、城市名稱
+Namibia,納米比亞,noun,洲、國家/地區、城市名稱
+Nepal,尼泊爾,noun,洲、國家/地區、城市名稱
+Netherlands,荷蘭,noun,洲、國家/地區、城市名稱
+Netherlands Antilles,荷屬安地列斯,noun,洲、國家/地區、城市名稱
+New Caledonia,新喀里多尼亞群島,noun,洲、國家/地區、城市名稱
+New Zealand,紐西蘭,noun,洲、國家/地區、城市名稱
+Nicaragua,尼加拉瓜,noun,洲、國家/地區、城市名稱
+Niger,尼日,noun,洲、國家/地區、城市名稱
+Nigeria,奈及利亞,noun,洲、國家/地區、城市名稱
+Norfolk Island,諾福克島,noun,洲、國家/地區、城市名稱
+Northern Mariana Islands,北馬里安納群島,noun,洲、國家/地區、城市名稱
+Norway,挪威,noun,洲、國家/地區、城市名稱
+Oman,阿曼,noun,洲、國家/地區、城市名稱
+Pakistan,巴基斯坦,noun,洲、國家/地區、城市名稱
+Papua New Guinea,巴布亞紐幾內亞,noun,洲、國家/地區、城市名稱
+Paraguay,巴拉圭,noun,洲、國家/地區、城市名稱
+Peru,祕魯,noun,洲、國家/地區、城市名稱
+Philippines,菲律賓,noun,洲、國家/地區、城市名稱
+Poland,波蘭,noun,洲、國家/地區、城市名稱
+Portugal,葡萄牙,noun,洲、國家/地區、城市名稱
+Romania,羅馬尼亞,noun,洲、國家/地區、城市名稱
+Rwanda,盧安達,noun,洲、國家/地區、城市名稱
+Saint Helena,聖赫勒拿島,noun,洲、國家/地區、城市名稱
+Saint Kitts and Nevis,聖克里斯多福及尼維斯,noun,洲、國家/地區、城市名稱
+Saint Lucia,聖露西亞,noun,洲、國家/地區、城市名稱
+Saint Martin (French part),法屬聖馬丁,noun,洲、國家/地區、城市名稱
+Saint Pierre and Miquelon,聖匹島,noun,洲、國家/地區、城市名稱
+Saint Vincent and the Grenadines,聖文森及格瑞那丁,noun,洲、國家/地區、城市名稱
+Saudi Arabia,沙烏地阿拉伯,noun,洲、國家/地區、城市名稱
+Senegal,塞內加爾,noun,洲、國家/地區、城市名稱
+Serbia,塞爾維亞,noun,洲、國家/地區、城市名稱
+Seychelles,塞席爾,noun,洲、國家/地區、城市名稱
+Sierra Leone,獅子山,noun,洲、國家/地區、城市名稱
+Slovakia,斯洛伐克,noun,洲、國家/地區、城市名稱
+Slovenia,斯洛維尼亞,noun,洲、國家/地區、城市名稱
+Solomon Islands,索羅門群島,noun,洲、國家/地區、城市名稱
+Somalia,索馬利亞,noun,洲、國家/地區、城市名稱
+South Africa,南非,noun,洲、國家/地區、城市名稱
+South Georgia and the South Sandwich Islands,南喬治亞及南三明治群島,noun,洲、國家/地區、城市名稱
+Spain,西班牙,noun,洲、國家/地區、城市名稱
+Sri Lanka,斯里蘭卡,noun,洲、國家/地區、城市名稱
+Sudan,蘇丹,noun,洲、國家/地區、城市名稱
+Suriname,蘇利南,noun,洲、國家/地區、城市名稱
+Svalbard and Jan Mayen,冷岸及央棉,noun,洲、國家/地區、城市名稱
+Swaziland,史瓦濟蘭,noun,洲、國家/地區、城市名稱
+Sweden,瑞典,noun,洲、國家/地區、城市名稱
+Switzerland,瑞士,noun,洲、國家/地區、城市名稱
+Tajikistan,塔吉克,noun,洲、國家/地區、城市名稱
+Thailand,泰國,noun,洲、國家/地區、城市名稱
+Timor-Leste,東帝汶,noun,洲、國家/地區、城市名稱
+Togo,多哥,noun,洲、國家/地區、城市名稱
+Tokelau,托克勞群島,noun,洲、國家/地區、城市名稱
+Trinidad and Tobago,千里達及托巴哥,noun,洲、國家/地區、城市名稱
+Tunisia,突尼西亞,noun,洲、國家/地區、城市名稱
+Turkey,土耳其,noun,洲、國家/地區、城市名稱
+Turkmenistan,土庫曼,noun,洲、國家/地區、城市名稱
+Turks and Caicos Islands,土克斯及開科斯群島,noun,洲、國家/地區、城市名稱
+Tuvalu,吐瓦魯,noun,洲、國家/地區、城市名稱
+offload,卸載,verb,
+worker,背景工作,noun,
+INP,INP,noun,INP 是 Interaction to Next Paint (與下一個顯示內容的互動時間) 的縮寫
+Interaction to Next Paint,與下一個顯示內容的互動時間,noun,
+CLS,CLS,noun,CLS 是 Cumulative Layout Shift (累計版面配置位移) 的縮寫
+Cumulative Layout Shift,累計版面配置位移,noun,
+FCP,FCP,noun,FCP 是 First Contentful Paint (首次顯示內容所需時間) 的縮寫
+First Contentful Paint,首次顯示內容所需時間,noun,
+Speed Index,速度指標,noun,
+namespace,命名空間,noun,
+packet,封包,noun,網際網路資料傳輸時使用
+Packet Sniffing,封包偵測,noun,網際網路資料傳輸時使用
+Hash Message Authentication Code,金鑰雜湊訊息驗證碼,noun,
+HMAC,HMAC,noun,HMAC 是 Hash Message Authentication Code (金鑰雜湊訊息驗證碼) 的縮寫
+referrer,參照連結網址,noun,適用於網站分析 (例如 Google Analytics)，即經由其他來源 (例如透過第三方網域的連結) 來到網站的流量區隔。
+referrer,推薦連結來源網址,noun,適用於網路廣告 (例如 Google Ads)，即透過連結將訪客連到網站的網頁，也就是使用者到達廣告目標網頁前所在的網頁。
+rich results,複合式搜尋結果,noun,
